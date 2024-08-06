@@ -1,0 +1,114 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 92 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg92.txt
+Created: 2024-05-08T14:43:07.755483
+-----------------------------------------------------
+
+
+MEDICAL SERVICES
+LABORATORY
+
+1. Hematology Tests
+    a. CBC
+    b. Platelet Count
+    c. RBC
+    d. WBC and Differential
+    e. Hematocrit and Hemoglobin
+    f. CT-BT
+    g. Reticulocyte Count
+    h. Malarial Smear
+    i. Blood Typing
+    j. Cross Matching
+
+RATES
+    P
+    30.00
+    2500
+    30.00
+    60.00
+    60.00
+    40.00
+    90.00
+    11,000
+    40.00
+    40.00
+    q. LE Preparation
+    S. APTT
+    t. Toxic Granulation
+    k. VDRL
+    1. WIDAL Test
+    m. Pregnancy Test
+    n. RH Typing
+    o. ESR
+    p. Peripheral Blood Smear
+    r. Pro time
+    40.00
+    110.00
+    70.00
+    25.00
+    25.00
+    110.00
+    190.00
+    100.00
+    110.00
+    70.00
+
+2. Clinical Microscopy Tests
+    a. Routine Stool Income
+    25.00
+    b. Routine Urinalysis
+    30.00
+    c. Test for Occult Blood
+    40.00
+    d. Addis Count
+    40.00
+    e. Sperm Count
+    50.00
+    f. Seminal analysis
+    190.00
+    g. Albumin Determination
+    40.00
+    h. Concentration Technique
+    40.00
+    i. Ketone
+    30.00
+    j. Micral Test
+    140.00
+    k. Bile
+    30.00
+    1. Urobilinogen
+    30.00
+    m. Sugar
+
+3. Clinical Chemistry Tests
+    a. Bilirubin Test
+    90.00
+    b. Total Protein-A/G Ratio
+    90.00
+    c. Uric Acid
+    40.00
+    d. Blood Urea Nitrogen
+    40.00
+    e. Serum Glutamic Oxalo Transaminase
+    40.00
+    f. Creatinine
+    40.00
+    g. Triglycerides
+    40.00
+    h. Acid or Alkaline Phosphatase
+    140.00/60.00
+    i. Cell Count and Differential - CSR/any
+    40.00
+    fluid
+    j. CSF Protein and Sugar
+    60.00
+    k. HDL/LDL
+    120.00
+    1. Lipid Profile
+    240.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

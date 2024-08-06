@@ -1,0 +1,77 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 54 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg54.txt
+Created: 2024-05-08T14:43:07.464289
+-----------------------------------------------------
+
+
+d. The certificate of occupancy or use shall be posted or displayed in a conspicuous place in the premises and shall not be removed except upon order of the City Building Official or the City Mayor.
+
+e. Before the issuance of a certificate of occupancy or use there shall be an order of payment issued by the City Building Official to be collected by the City Treasurer based on the following schedule:
+
+| Category | Rate |
+| --- | --- |
+| Residential Buildings |  |
+|  | a. Made of traditional indigenous materials |  |
+|  | b. Costing more than P15,000 up to P50,000 |  |
+|  | c. Costing more than P50,000 up to P100,000 |  |
+|  | d. Costing more than P100,000 up to P150,000 |  |
+|  | e. Costing more than P150,000 up to P250,000 |  |
+|  | f. Costing more than P250,000 up to P500,000 |  |
+|  | g. Costing more than P500,000 |  |
+
+| Category | Rate |
+| --- | --- |
+| Commercial/Industrial Buildings |  |
+|  | a. Costing not more than P50,000 | 30.00 |
+|  | b. Costing more than P50,000 up to P100,000 | 75.00 |
+|  | c. Costing more than P100,000 up to P250,000 | 120.00 |
+|  | d. Costing more than P250,000 up to P500,000 | 180.00 |
+|  | e. Costing more than P500,000 up to P2,000,000 | 250.00 |
+|  | f. Costing more than P2,000,000 | 1,000.00 |
+|  | j. Costing not more than P50,000 | 150.00 |
+
+| Category | Rate |
+| --- | --- |
+| Social and Institutional |  |
+|  | a. Costing up to P50,000 |  |
+|  | b. Costing more than P50,000 up to P150,000 |  |
+|  | c. Costing more than P150,000 up to P250,000 |  |
+|  | d. Costing more than P250,000 up to P500,000 |  |
+|  | e. Costing more than P500,000 up to P2,000,000 |  |
+
+| Category | Rate |
+| --- | --- |
+| Ancillary structures |  |
+|  | a. Garage, carports, balconies, terraces and the like |  |
+|  | b. Bank and record vaults, per cu m of interior volume |  |
+|  | c. Swimming pool per cu m |  |
+|  | d. Swimming pool shower rooms, locker rooms per unit: |  |
+|  | e. Towers per unit | 70.00 |
+|  | f. Commercial and industrial storage |  |
+|  | g. Smokestack per unit |  |
+|  | h. Chimneys per unit |  |
+|  | i. Commercial/Industrial fixed ovens per unit |  |
+|  | j. Industrial kilns/furnace per unit |  |
+
+| Category | Rate |
+| --- | --- |
+|  | Self supporting | 7.00 |
+|  | Trilon/Guyed | 20.00 |
+|  | Self supporting | 15.00 |
+|  | Trilon/Guyed | 10.00 |
+|  | Self supporting | 50.00 |
+|  | Trilon/Guyed | 25.00 |
+|  | Self supporting | 30.00 |
+|  | Trilon/Guyed | 20.00 |
+|  | Self supporting | 60.00 |
+|  | Trilon/Guyed | 25.00 |
+|  | Self supporting | 12.00 |
+|  | Trilon/Guyed | 12.00 |
+|  | Self supporting | 49.00 |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

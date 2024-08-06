@@ -1,0 +1,83 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 45 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg45.txt
+Created: 2024-05-08T14:43:07.413588
+-----------------------------------------------------
+
+
+VIII All other fees shall be in accordance with PD No. 1096 National Building Code of the Philippines (NBCP) 2004 Revised Implementing Rules and Regulations (R-IRR) Effective 01 May 2005
+
+E. Schedule of Building Permit Fees- There shall be collected building permit fees for the construction/addition/renovation/alteration of buildings and ancillary structures based on the following classification and schedule
+
+Residential buildings, per sq. m
+
+| Classification | Fee |
+| --- | --- |
+| Original complete construction up to 20 sq. m | - |
+| Addition/renovation/alteration up to 20 sq. m | - |
+| Above 20 sq. m to 50 sq. m | - |
+| Above 50 sq. m to 100 sq. m | - |
+| Above 100 sq. m to 150 sq. m | - |
+| Above 150 sq. m | - |
+
+Commercial and industrial buildings, per sq. m
+
+| Classification | Fee |
+| --- | --- |
+| Up to 5,000 sq. m | Exempted |
+| Above 5,000 sq. m to 6,000 sq. m | ₱ 300 |
+| Above 6,000 sq. m to 7,000 sq. m | ₱ 28.00 |
+| Above 7,000 sq. m | ₱ 2,000 |
+
+Social, Educational and institutional buildings, per sq. m
+
+| Classification | Fee |
+| --- | --- |
+| Up to 5,000 sq. m | ₱ 15.00 |
+| Above 5,000 sq. m up to 6,000 sq. m | ₱ 1,200 |
+| Above 6,000 sq. m up to 7,000 sq. m | ₱ 1,000 |
+
+Agricultural buildings and other structures for the storage of agricultural products
+
+| Classification | Fee |
+| --- | --- |
+| Up to 20 sq. m | ₱ 400 |
+| Above 20 sq. m to 500 sq. m | ₱ 300 |
+| Above 500 sq. m to 1,000 sq. m | ₱ 2.00 |
+| Above 1,000 sq. m to 5,000 sq. m | - |
+| Above 5,000 sq. m to 10,000 sq. m | - |
+| Above 10,000 sq. m | - |
+
+Other structures such as garage, carports and all parts of buildings which are open on two or more sides such as balconies, terraces, lanais and the line building of which they are part
+
+| Classification | Fee |
+| --- | --- |
+| 50% of the rate of the principal part | - |
+
+Aviaries, aquariums, zoo structures
+
+| Classification | Fee |
+| --- | --- |
+| 50% of the rate of the principal part | - |
+
+| Classification | Fee |
+| --- | --- |
+| 1.50 | - |
+| 1.00 | - |
+| 0.50 | - |
+
+In accordance with the rates for agricultural structures
+
+Buildings with height of more than 8 meters, an additional fee in excess of 8 meters per cu. m.
+
+Alterations/Renovations/Improvement on Vertical Dimensions of Buildings and structures Such as facades, exterior and interior walls, shall be assessed in accordance with the following rates:
+
+| Classification | Fee |
+| --- | --- |
+| 0.50 | - |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

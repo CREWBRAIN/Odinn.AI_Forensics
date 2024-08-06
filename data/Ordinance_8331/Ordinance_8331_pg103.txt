@@ -1,0 +1,55 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 103 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg103.txt
+Created: 2024-05-08T14:43:06.779701
+-----------------------------------------------------
+
+
+ARTICLE F
+CEMETERY CHARGES
+
+SEC. 150. Cemetery Charges. Cemetery Charges shall be imposed at rates hereunder enumerated:
+
+Services
+| Service | Fee |
+| --- | --- |
+| 1. Permit to make major repairs on: |  |
+|  | a. Monuments or markers | P 150.00 |
+|  | b. Grave, tombs (tank) | P 150.00 |
+| 2. Permit for every embalmed cadaver registered | P 100.00 |
+| 3. Permit for every embalmed cadaver used for scientific study of students from medical and dental schools | P 500.00 |
+| 4. Permit for cadaver disposition, etc. |  |
+|  | a. Entrance from another municipality |  |
+|  | b. Transfer to another municipality |  |
+|  | c. Cremation |  |
+|  | d. Exhumation |  |
+|  | e. Burial |  |
+|  | f. Cemetery fee | £1 Certification/Verification |
+|  | g. Disinterment |  |
+| 5. For each burial permit for transport of remains, bones and ashes from Manila to other foreign countries and vice versa, from foreign to Manila |  |
+| 6. For the lease of each niche in any of the city cemeteries for a five-year period without renewal |  |
+| 7. Rental for a standard grave PER ANNUM FOR FIVE CONSECUTIVE YEARS WITHOUT RENEWAL |  |
+| 8. For the lease of each multi-storey niches for five (5) years; renewable only for another five years after payment has been made in advance |  |
+|  | a. | P 500.00 |
+|  | b. | P 300.00 |
+|  | c. | P 300.00 |
+|  | d. | P 300.00 |
+|  | e. | P 300.00 |
+|  | f. | P 100.00 |
+|  | g. | P 200.00 |
+|  | h. | P 150.00 |
+|  | i. | P 400.00 |
+|  | j. | P 1,000.00 |
+|  | k. | P 1,000.00 |
+|  | l. | P 600.00 |
+|  | m. | P 3,000.00 |
+| 9. For the perpetual lease of each bone (one single deceased) to be deposited at the bone crypt at the memorial circle at the Manila North Cemetery | P 2,000.00 |
+
+Disposition of proceeds
+All proceeds or revenue realized therefrom shall be used solely for the services, improvements and maintenance of the cemetery or cemeteries from which said revenue or proceeds were derived.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

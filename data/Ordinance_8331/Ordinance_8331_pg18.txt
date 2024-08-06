@@ -1,0 +1,31 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 18 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg18.txt
+Created: 2024-05-08T14:43:07.179345
+-----------------------------------------------------
+
+
+SEC. 42. Filing of Assessment Appeals. Any owner or person having legal interest in the property who is not satisfied with the action of the City Assessor in the assessment of his property may, within 60 days from the date of receipt of the written notice of assessment, appeal to the City Board of Assessment Appeals by filing a petition under oath in the form prescribed for the purpose, together with copies of the tax declaration and such affidavits or documents submitted in the support of the appeal.
+
+SEC. 43. Action by the City Board of Assessment Appeals.
+
+A. The board shall decide the appeal within one hundred twenty (120) days from the date of receipt of such appeal. The board, after hearing, shall render its decision based on substantial evidence or such relevant evidence on record as a reasonable mind might accept as adequate to support the conclusion.
+
+B. In the exercise of its appellate jurisdiction, the board shall have the power to summon witnesses, administer oaths, conduct ocular inspections, take depositions, and issue subpoenas and subpoenas duces tecum. The proceedings of the board shall be conducted solely for the purpose of ascertaining the facts without necessarily adhering to technical rules applicable in judicial proceedings.
+
+C. The secretary of the board shall furnish the owner of the property or the person having legal interest therein and the City Assessor with a copy of the decision of the board. In case the City concurs in the revision or the assessment, it shall be his duty to notify the owner of the property or the person having legal interest therein of such fact using the form prescribed for the purpose. The owner of the property or the person having legal interest therein or the assessor who is not satisfied with the decision of the board may, within thirty (30) days after receipt of the decision of said board, appeal to the central board of assessment appeals. The decision of the Central Board of Assessment Appeals shall be final and executory.
+
+SEC. 44. Effect of Appeal on the Payment of Real Property Tax. - Appeal on assessments of real property made under the provisions of this Ordinance shall, in no case, suspend the collection of the corresponding realty taxes on the property involved as assessed by the City Assessor, without prejudice to subsequent adjustment depending upon the final outcome of the appeal.
+
+SEC. 45. City Assessor to Furnish City Treasurer with Assessment Roll. On or before the thirty-first day of December of each year, the City Assessor shall submit an assessment roll containing a list of all persons whose real properties have been newly assessed or reassessed and the values of such properties to the City Treasurer.
+
+SEC. 46. Notice of Time for Collection of Tax. - The City Treasurer shall, on or before the thirty-first day of January each year, in the case of the basic real property tax and the additional tax for the SEF or on any other date to be prescribed by the Sangguniang Panlungsod in the case of any other tax levied under this Article, post the notice of the dates when the tax may be paid without interest at a conspicuous and publicly accessible place at the City Hall. Said notice shall likewise be published in a newspaper of general circulation in the locality once a week for two (2) consecutive weeks.
+
+SEC. 47. Payment Under Protest.—-
+A. No protest shall be entertained unless the taxpayer first pays the tax. There shall be annotated on the tax receipts the words "paid under protest". The protest in writing must be filed within thirty (30) days from payment of the tax to the City Treasurer who shall decide the protest within sixty (60) days from receipt.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,30 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 26 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg26.txt
+Created: 2024-05-08T14:43:07.232492
+-----------------------------------------------------
+
+
+SEC. 88. Ordinance Imposing a Special Levy. A tax ordinance imposing a special levy shall describe with reasonable accuracy the nature, extent, and location of the public works projects or improvements to be undertaken, state the estimated cost thereof, specify the metes and bounds by monuments and lines and the number of annual installments for the payment of the special levy which in no case shall be less than five (5) nor more than ten (10) years. The Sangguniang Panlungsod shall not be obliged, in the apportionment and computation of the special levy, to establish a uniform percentage of all lands subject to the payment of the tax for the entire district, but it may fix different rates for different parts or sections thereof, depending on whether such land is more or less benefited by the project. The Ordinance shall likewise specify the appropriate penalty for non-compliance or violations of the provisions of the said ordinance.
+
+SEC. 89. Publication of Proposed Ordinance Imposing a Special Levy. - Before the enactment of the ordinance imposing a special levy the Sangguniang Panlungsod shall conduct a public hearing thereon; notify in writing the owners of the real property to be affected or the persons having legal interest therein as to the rate and place thereof and afford the latter the opportunity to express their positions or objections relative to the proposed ordinance.
+
+SEC. 90. Fixing the Amount of Special Levy. The special levy authorized therein shall be apportioned, computed and assessed according to the assessed valuation of the lands affected as shown by the books of the City Assessor or its current assessed value as fixed by said assessor if the property does not appear on record in his books. Upon the effectivity of the Ordinance imposing special levy, the City Assessor shall forthwith proceed to determine the annual amount of special levy assessed against each parcel of land comprised within the area especially benefited and shall send to each landowner a written notice thereof by mail, personal service or publication in appropriate cases.
+
+SEC. 91. Taxpayers Remedies Against Special Levy. Any owner of real property affected by a special levy or any person having a legal interest therein may, upon receipt of the written notice of assessment of the special levy, avail of the remedies provided for in this Ordinance.
+
+SEC. 92. Administrative Provisions.
+
+A. The Register of Deeds of the city shall, before registering any deed, require the presentation of the evidence of payment of this tax. The City Assessor shall likewise make the same requirement before canceling an old tax declaration and issuing a new one in place thereof.
+
+B. Notaries Public shall furnish the City Treasurer with a copy of any deed transferring ownership or title to any real property within thirty (30) days from the date of notarization.
+
+ARTICLE D
+TAX ON THE TRANSFER OF REAL PROPERTY OWNERSHIP
+SEC. 93. Accrual of Collections.- Except as otherwise provided in this Ordinance, the taxes, fees, and charges levied by the City of Manila accrue to the City.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,30 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 11 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg11.txt
+Created: 2024-05-08T14:43:06.854116
+-----------------------------------------------------
+
+
+SEC. 16. Tax Discount for Advanced and Prompt Payment. If both the basic real property tax and additional SEF tax are paid full year on or before January 31, the taxpayer shall be entitled to a twenty percent (20%) discount, a tax discount of 15% if paid quarterly on or before the last day of the first month of every quarter, and ten percent (10%) discount prompt payments made as provided in Section 15. Provided, however, that such discounts shall only be granted to properties without delinquencies. Provided, further, that payment of basic or SEF tax only shall not entitle the taxpayer to any discount provided herein.
+
+SEC. 17. Collection and Distribution of Proceeds. The collection of the real property tax with interest thereon and related expenses, and the enforcement of the remedies provided for in this article or any applicable laws, shall be the responsibility of the City Treasurer. The City Treasurer may deputize the barangay treasurer to collect all taxes on real property located in the barangay. Provided, however, that the barangay treasurer is properly bonded for the purpose. Provided, further, that the premium on the bond shall be paid by the City Government.
+
+The proceeds of the basic real property tax, including interest thereon, and proceeds from the use, lease or disposition, sale or redemption of property acquired at a public auction, in accordance with the provisions of this Article, shall be distributed as follows:
+
+| A) | City of Manila General Fund | 70% |
+| B) | Barangay share | 30% |
+|  |  |  |
+|  | 1. | Fifty percent (50%) share shall accrue to the barangay where the property is located | 50% |
+|  | 2. | Fifty percent (50%) shall be divided equally among the component barangays | 50% |
+
+The share of the barangay shall be released directly to the barangay treasurer on a quarterly basis within five (5) days after the end of each quarter without the need of any further action and shall not be subject to any lien or holdback for whatever purpose, subject to such rules as may be prescribed by the Commission on Audit for this purpose.
+
+The proceeds of the additional one percent (1%) SEF tax shall accrue entirely and shall be automatically released to the City of School Board for the operation and maintenance of public schools, construction and repair of school buildings, facilities and equipment, educational research, purchase of books and periodicals, and sports development.
+
+SEC. 18. Appraisal of Real Property. All property, whether taxable or exempt, shall be appraised at the current and fair market value prevailing in the City in accordance with the rules and regulations promulgated by the Department of Finance for the classification, appraisal and assessment of real property pursuant to the provisions of the Local Government Code.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

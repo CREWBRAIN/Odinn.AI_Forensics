@@ -1,0 +1,51 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 65 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg65.txt
+Created: 2024-05-08T14:43:07.552804
+-----------------------------------------------------
+
+
+ARTICLE I
+SLAUGHTER, INSPECTION AND PERMIT FEES
+
+SEC. 129. For purposes of this Ordinance, the City shall collect the fees written below:
+
+A.) Permit Fee. Before any animal is slaughtered for public or private consumption, a permit therefore shall be secured from the Veterinary Inspection Board Office of the City Veterinarian, Manila and the corresponding fee shall be collected by the City Treasurer through the Veterinary Inspection Board.
+
+| Category | Fee |
+| --- | --- |
+| Large Cattle | Php 30.00/head |
+| Hogs, goat, sheep, and like | Php 5.00/head |
+| Fowls | Php 1.00/head |
+
+B.) Stockyard Fee. The following fees, per day or a fraction thereof per head, shall be collected for the animals to be slaughtered which are kept and deposited in the stockyard within Veterinary Inspection Board Slaughterhouse Complex, Vitas, Tondo, Manila.
+
+| Category | Fee |
+| --- | --- |
+| Large Cattle | Php 25.00/head/day |
+| Hogs, goat, sheep, and like | Php 5.00/head/day |
+| Fowls | Php 0.25/head/day |
+
+C.) Facilities Fee. There shall be charged and collected the following fees by the Veterinary Inspection Board/Office of the City Veterinarian for the use of the slaughterhouse facilities and utilities in the slaughtering and dressing of livestock and poultry.
+
+| Category | Fee |
+| --- | --- |
+| Carcass | Php 50.00/head |
+| Scalding/Blanching Fee | Php 10.00/can (21 liters) |
+| Entrails - Large animals | Php 25.00/set |
+| Entrails - Small animals | Php 10.00/set |
+| Ox Hide | Php 20.00/whole hide |
+| Ox Tail, Feet, Head Skin | Php 25.00/set |
+
+D.) Inspection Fee
+
+| Category | Fee |
+| --- | --- |
+| Ante-Mortem Inspection Fees | Php 20.00/head |
+| Post-Mortem Fees | Php 25.00/kg of meat and poultry |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

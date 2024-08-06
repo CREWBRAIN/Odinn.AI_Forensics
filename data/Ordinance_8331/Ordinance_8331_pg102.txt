@@ -1,0 +1,92 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 102 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg102.txt
+Created: 2024-05-08T14:43:06.773551
+-----------------------------------------------------
+
+
+400.00
+
+c) Restoration cost for the repair of combination concrete curbs and cutter: per linear meter
+
+d) Restoration cost for the repair of concrete sidewalks: per sq.m. 480.00
+
+e) Restoration cost for the repair of asphalt paved street: per sq.m. 520.00
+
+f) Restoration cost for the repair of concrete paved street: per sq.m. 780.00
+
+ARTICLE E
+DEVELOPMENT CHARGE
+SEC. 149. Development Charge- These are fair-share based fees that will serve to offset, or mitigate, the adverse impacts of effects caused by new development such as roads, sewers and waterlines as well as fire stations, transit and some forms of park and recreational facilities.
+
+It allows development to pay for itself instead of putting these costs onto people already living in the community. Development charges shall be collected upon the application for building permit of the developers. In cases where developers had already secured building permits, the development charges shall be collected upon the application for occupancy permit.
+
+A.
+B.
+Residential (Gross Floor Area)
+(% of Construction Cost)
+Less than 100 sq. m.
+100 sq. m. or more but less than 300 sq.m.
+300 sq. m. or more but less than 500 sq.m.
+500 sq. m. or more but less than 800 sq.m.
+800 sq. m. or more but less than 1,000 sq m.
+1,000 sq m or more but less than 5,000 sq m.
+Over 5,000 sq. m.
+Non-residential (Gross Floor Area)
+Less than 500 sq. m.
+500 sq. m. or more but less than 800 sq. m.
+800 sq. m. or more but less than 1,000 sq. m.
+1,000 sq. m. or more but less than 5,000 sq. m.
+5,000 sq. m. or more but less than 10,000 sq. m.
+10,000 sq. m. or more but less than 15,000 sq. m.
+15,000 sq. m. or more but less than 20,000 sq. m.
+Rate/sam
+Exempted
+Php 0.50
+1.00
+1.50
+2.00
+2.50
+3.00
+Php 1.00
+1.50
+2.00
+2.50
+3.00
+3.50
+4.00
+20,000 sq. m. or more but less than 25,000 sq. m.
+Over 25,000 sq. m.
+C.
+Utilities (per linear meter)
+4.50
+5.00
+Rate/day
+1. Water Pipes
+2. Sewerage Pipes
+3. Petroleum Pipes
+Php 0.10
+0.10
+0.25
+4. Telephone Cable
+0.05
+5. Television Cable
+0.05
+6. Power Cable
+0.10
+7. Electric and Telephone Post (per post)
+20.00
+8. Public Telephone (per booth)
+5.00
+8.1 Wood
+20.00/post
+8.2 Concrete
+8.3 Steel
+30.00/post
+50.00/post
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,103 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 67 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg67.txt
+Created: 2024-05-08T14:43:07.563800
+-----------------------------------------------------
+
+
+SEC. 130. Pound and Animal Disease Control Service Fee and Charges.
+
+A.) Animals running at large or left in public places shall be impounded by the Manila City Pound, and a corresponding fee prescribed herein for each animal so impounded shall be collected by the City through the Veterinary Inspection Board Impounding Fee
+
+1. Large Cattle
+Php 500.00/head
+2. Small Animals
+Php 250.00/head
+3. Fowl/Poultry
+Php 50.00/head
+
+2. Subsistence Fee/day
+1. Large Cattle
+Php 50.00/head/day
+2. Dogs, cats and other small Animals
+Php 10.00/head/day
+3. Fowl/Poultry
+Php 5.00/head/day
+
+3. Registration/dog license fee
+1. Dog
+Php 50.00
+2. Surcharge
+Php 10.00
+
+B.) Disposal Fee. It shall be unlawful for any owner of dead animal to dispose its carcass anywhere. Dead animals shall be turned over to the City Pound for sanitary disposal and a fee prescribed its carcass herein shall be assessed and collected as follows:
+
+1. Large animal
+2. Small animal
+3. Fowl/Poultry
+
+C.) Adoption Fee. For unredeemed animals
+1. For every dog/cat
+Php 500.00/carcass
+2. For every small animal
+Php 100.00/carcass
+3. For every fowl/poultry
+Php 10.00/carcass
+
+SEC. 131. Rate of Fees for Veterinary and Regulated Services of the Veterinary Inspection Board/Office of the City Veterinarian.
+
+Patient is categorized into two (2) for the assessment of rate of fees to be collected.
+
+Category 1
+Small Breed:
+Shih-tzu, toy poodle, cat, etc.
+Medium built:
+Japanese Spitz, Beagle, etc.
+
+Category 2
+Large Breed
+German Shepherd, Labrador,
+Extra large breed
+etc.
+Great Dane, mastiff, etc.
+
+A.) Hospitalization/Confinement
+1. Category 1
+First day (1)
+Succeeding days
+Php 450.00/day
+Php 200.00/day
+2. Category 2
+First day (1)
+Succeeding days
+Php 600.00/day
+Php 350.00/day
+
+B.) Anesthesia
+1. General
+Category 1
+Php 250.00
+Category 2
+Php 300.00
+2. Local
+Category 1
+Php 100.00
+Category 2
+Php 150.00
+3. Sedative
+Category 1
+Php 100.00
+Category 2
+Php 200.00
+
+C.) Clipping
+1. Hair
+Php 300.00
+2. Nail
+Php 50.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

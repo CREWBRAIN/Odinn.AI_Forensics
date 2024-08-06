@@ -1,0 +1,88 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 71 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg71.txt
+Created: 2024-05-08T14:43:07.609443
+-----------------------------------------------------
+
+
+D. Penalties
+
+1. Driving without or using improvised TRO Plate.
+2. Driving a tricycle with no body number and/or TODA name.
+3. Driving without/expired permit and/or franchise and/or driver's license and Impounding.
+4. Out of Line
+5. Overloading
+
+500.00
+500.00
+1,000.00
+200.00
+200.00
+
+CHAPTER IV - SERVICE FEES
+
+ARTICLE A
+SECRETARY'S/CERTIFICATION'S FEES
+
+SEC. 134. Secretary's/Certification's Fees. All other Certification Fees not specifically specified in the preceding sections
+
+ARTICLE B
+LOCAL CIVIL REGISTRY FEES
+
+50.00
+
+SEC. 135. Local Civil Registry Fees. The rate of registration and filing fees are as follows:
+
+A.
+Filing and Registration Fees
+
+1. Foreign Court Decision
+   a. Divorce/Dissolution of Marriage
+   b. Adoption
+   c. Judicial Recognition of Foreign Court Decision/Divorce/Dissolution of Marriage
+
+2. Legal Instrument Executed Abroad
+   Rate
+   2,000.00
+   2,000.00
+   2,000.00
+
+   a. Affidavit of Legitimization
+   500.00
+   b. Affidavit of Admission of Paternity
+   500.00
+   c. Affidavit of Supplement Report
+   500.00
+   d. Affidavit under RA 9858 and RA 9255
+   500.00
+
+3. Local Court Decision
+   a. Annulment
+   b. Adoption
+   c. Judicial Change of Name/Correction of Entries
+   d. Judicial Recognition/Acknowledgement
+   e. Legal Separation
+   f. Guardianship
+   g. Emancipation of Minor
+   h. Conversion-Muslim
+   i. Presumptive Death
+   j. Other Legal Document
+   k. Pre-Nuptial Agreement
+
+2,000.00
+2,000.00
+500.00
+500.00
+1,000.00
+500.00
+500.00
+500.00
+1,000.00
+500.00
+2,000.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

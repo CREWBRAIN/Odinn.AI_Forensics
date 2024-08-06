@@ -1,0 +1,90 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 55 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg55.txt
+Created: 2024-05-08T14:43:07.469292
+-----------------------------------------------------
+
+
+k. Reinforced concrete tanks per unit
+a. Residential
+  up to 2 cu m
+  above 2 cu m
+b. Commercial/Industrial
+c. Social/Institutional
+5. Steel tanks per unit
+  a. Residential
+    up to 2 cu m
+    above 2 cu m
+  b. Commercial/Industrial
+    Above ground
+    Under ground
+  c. Social/Institutional
+  Booths, kiosk, platforms, stages and the like
+7. Change in use or occupancy per sq.m..
+O. Building Inspection
+  5.00
+  15.00
+  50.00
+  25.00
+  5.00
+  15.00
+  50.00
+  40.00
+  25.00
+  20.00
+  10.00
+a. All buildings and structures which have been issued certificates of occupancy or use shall be
+subject to regular inspection conducted by the City Building Official to ensure that the
+buildings and structures are properly maintained for the purpose of preserving their
+architectural well-being, structural integrity, electrical and mechanical safety, sanitary and fire
+protection facilities
+b. Inspection is also conducted to ensure that the building are not used for the purpose other than
+their approved uses, and that no alteration, addition, repair, new electrical or mechanical
+installation are made without permit therefor.
+P. Inspection Fees - Owners of Buildings or structures inspected shall pay the corresponding
+fees as enumerated below,
+1. Annual Building Inspection Fee
+  a. Residential Buildings
+    1. Single Detached and Duplex Units
+  2. For each of the following services upon request
+    Architectural Presentability
+      80.00
+    Structural Stability and Integrity
+    Sanitary and Plumbing Requirements
+    Fire Resistive Requirements
+  b. Commercial (excluding amusement houses and gymnasia) industrial,
+    social and institutional buildings with gross value of
+  1. Up to P1,000,000.00
+    150.00
+    150.00
+    150.00
+    150.00
+  2. Above P1,000,000 up to P5,000,000
+  3. Above P5,000,000 up to P10,000,000
+  4. Above P10,000,000 up to P50,000,000
+  5. Above P50,000,000 up to P100,000,000
+  6. Above P100,000,000
+  c. Amusement house, Gymnasia and the like
+  1. Cinematographs or theaters
+  2. Grandstands/Bleachers
+  3. Gymnasia and the like
+2. Sanitary and Inspection Fee
+  a. Every inspection trip during construction
+    150.00
+  b. Annual Inspection of Sanitary Plumbing Systems
+    250.00
+    500.00
+    950.00
+    500.00
+    2,000.00
+    1,500.00
+    1,000.00
+    800.00
+    2,000.00
+  50.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

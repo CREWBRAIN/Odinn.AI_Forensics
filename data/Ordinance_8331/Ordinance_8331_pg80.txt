@@ -1,0 +1,84 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 80 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg80.txt
+Created: 2024-05-08T14:43:07.682513
+-----------------------------------------------------
+
+
+Private Hospitals and Medical Clinics with Bed Capacity for
+
+1. More than 500 persons
+2. 301 to 500 persons
+3. 151 to 300 persons
+4. 101 to 150 persons
+5. 76 to 100 persons
+6. 51 to 75 persons
+7. 25 to 50 persons
+8. Less than 25 persons
+
+Animal hospitals and others: 2,000.00
+1,750.00
+1,500.00
+1,250.00
+1,000.00
+750.00
+500.00
+250.00
+250.00
+
+G. Hotels, Motels, Apartels, Pension Inns, Drive Inns, Boarding Houses, Lodging Houses, Dormitories, Dwellings and Other Spaces for Lease or Rent
+
+1. Hotels
+   a. Five star/per room
+      Rate per Quarter
+      1. Single bed: 40.00
+      2. Double bed: 
+      3. Suite: 
+
+   b. Four star/per room
+      1. Single bed: 
+      2. Double bed: 
+      3. Suite: 
+
+   c. Three star/per room
+      1. Single bed: 
+      2. Double bed: 
+      3. Suite: 
+
+2. Motels, and Drive-Inns/per room
+3. Hotels, apartels, pension inns:
+   a. With air-condition/per room:
+      1. Single bed: 60.00
+      2. Double bed: 100.00
+      1. Single bed: 300.00
+      2. Double bed: 45.00
+      3. Suite: 2500.00
+      35.00
+      45.00
+      60.00
+      30.00
+      40.00
+
+   b. Without air-condition/per room:
+      1. Single bed: 20.00
+      2. Double bed: 25.00
+
+4. Boarding houses, lodging houses, dormitories bed spaces (bed capacity) per bed: 50.00
+
+H. Institutions of Learning:
+   Private universities, colleges, schools and educational or vocational institutions
+   based on the total semestral enrollments as follows:
+   a. 50,000 students or more: 2,600.00
+   b. 30,000 or more but less than 50,000 students: 1,950.00
+   c. 20,000 or more but less than 30,000 students: 
+   d. 10,000 or more but less than 20,000 students: 
+   e. 5,000 or more but less than 10,000 students: 1,500.00
+   f. 1,000 or more but less than 5,000 students: 1,100.00
+   g. 300 or more but less than 1,000 students: 800.00
+   h. below 300 students: 600.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

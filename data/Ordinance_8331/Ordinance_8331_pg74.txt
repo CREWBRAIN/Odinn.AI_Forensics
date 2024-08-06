@@ -1,0 +1,85 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 74 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg74.txt
+Created: 2024-05-08T14:43:07.627999
+-----------------------------------------------------
+
+
+1. Aircraft and water companies
+2. Financial institutions, such as banks, pawnshops, money shops, insurance companies, finance and other investment companies, dealers in securities and foreign exchange dealers:
+Main Office
+Every branch thereof
+3. Gasoline service/filling stations
+4. Private Hospitals
+Php 1,000.00
+600.00
+400.00
+1,000.00
+1,600.00
+5. Medical and dental clinics and animal hospitals
+500.00
+6. Dwellings and other spaces for lease or rent:
+    a. Hotels, motels, apartels, pension inns, drive inns:
+        With more than 150 rooms
+        1,600.00
+        With 100 to 149 rooms
+        1,200.00
+        With 50 to 99 rooms
+        800.00
+        With 25 to 49 rooms
+        400.00
+        With less than 25 rooms
+        300.00
+    b. Apartment/door
+        80.00
+    c. (Accessorias) or houses for rent
+    d. Dormitories, lodging or boarding houses,
+        With accommodation for more than 40 boarders or lodgers
+        1,000.00
+        15 to 39 boarders or lodgers
+        600.00
+        Less than 15 boarders or lodgers
+        400.00
+    e. Condominiums/per unit
+        100.00
+7. Commercial stall/unit (per stall/unit)
+100.00
+8. Institutions of learning
+1,200.00
+9. Media facilities
+400.00
+10. Telegraph, teletype, cable and wireless communication companies
+400.00
+11. Telephone/electric and power companies:
+    Main Office
+        800.00
+    Every branch thereof
+        600.00
+12. Administration offices, display offices, and/or offices of professionals
+500.00
+13. Lending Investors
+400.00
+14. All other businesses, industrial, commercial agricultural establishments not specifically mentioned above:
+    With an area of more than 1,000 sq. m
+        1,600.00
+    500 or more but less than 1,000 sq. m
+        200 or more but less than 500 sq. m
+        100 or more but less than 200 sq. m
+        50 or more but less than 100 sq. m
+        25 or more but less than 50 sq. m
+        Less than 25 sq. m
+        15
+Certificate of Potability of Drinking Water
+120 00
+200.00
+1,200.00
+800.00
+600.00
+400.00
+200.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

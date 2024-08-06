@@ -1,0 +1,135 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 99 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg99.txt
+Created: 2024-05-08T14:43:07.792483
+-----------------------------------------------------
+
+
+21. General and OB-GYNE Ultrasound
+
+a. Pancreas
+$300.00
+b. Parathyroid
+$400.00
+c. Parotid
+$300.00
+d. Pelvic/Pelvic biometry
+$400.00
+e.
+Pelvic Twin
+$900.00
+f. Prostate
+$400.00
+g. Right lower quadrant
+$800.00
+h. Saline infusion Sono Hysterography
+$2,500.00
+i. Scrotum
+$900.00
+j. Scrotum with Doppler
+$1,400.00
+k. Soft tissue
+$400.00
+l. Spleen
+$300.00
+m. Testicle with Doppler
+$1,400.00
+n. Thyroid
+$400.00
+o. Transrectal
+$500.00
+p. Transvaginal Ultrasound (TVS)
+$400.00
+q. TVS (two or more babies)
+$400.00 + $100/baby
+r. TVS follicular monitoring
+$500.00
+s. Upper abdomen
+$400.00
+t. Urinary bladder
+$300.00
+u. Whole Abdomen
+$800.00
+v. Sonohysterogram
+$1,000.00
+w. Ultrasound guided/biopsy (per organ)
+$1,000.00
+
+22. CT SCAN
+
+a. Head
+PLAIN
+(1500)
+$2,000.00
+$3,000.00
+WITH
+CONTRAST
+1) Orbits
+$3,500.00
+$4,500.00
+2) PNS
+3) Temporal bone
+4) Nasopharynx
+5) Facial (to include PNS, Mandible)
+6) Head/Nasopharynx
+7) PNS/Nasopharynx
+8) Head/Facial
+9) Facial/Orbits
+10) Facial/Temporal
+11) Head, Orbits, and Facial
+12) Head, Temporal and Facial
+* Special Studies
+Head/Orbits
+Head/PNS
+Head/Temporal
+Head Larynx
+b Larynx/Thyroid
+c. Chest/Adrenal Glands
+$3,500.00
+$4,500.00
+$3,500.00
+$4,500.00
+$3,500.00
+$4,500.00
+$5,000.00
+$6,000.00
+$3,000.00
+$4,000.00
+$3,000.00
+$4,000.00
+$3,500.00
+$4,500.00
+$3,500.00
+$4,500.00
+$4,500.00
+$5,500.00
+$4,500.00
+$5,500.00
+$3,000.00
+$4,000.00
+$3,000.00
+$4,000.00
+$3,000.00
+$4,000.00
+$3,000.00
+$4,000.00
+$3,000.00
+$4,000.00
+$3,500.00
+$4,500.00
+$4,000.00
+d. Adrenal Glands
+$3,000.00
+$4,000.00
+e. Upper Abdomen
+$3,000.00
+$4,000.00
+f. Upper Abdomen/Kidneys
+$4,000.00
+$5,000.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

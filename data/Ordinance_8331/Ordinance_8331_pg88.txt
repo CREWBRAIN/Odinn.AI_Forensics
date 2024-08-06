@@ -1,0 +1,88 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 88 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg88.txt
+Created: 2024-05-08T14:43:07.729514
+-----------------------------------------------------
+
+
+37. Operating Animal Drawn Carriages, Bicycle, and Tricycle Without License
+38. Overloading of Passengers of Bicycles and Tricycles
+39. No Permit to Move Equipment and/or Load of Excessive Weight, Width, or Height
+40. Out of Route (PUB/PUJ)
+41. Out of Service Area (Tricycle/Pedicab)
+42. Overcharging of Fares/Contracting Services
+43. Obstructing Driver's View or Mechanism
+44. Obstructing Roads by Motor Vehicles Vendors Stalled Vehicles
+45. Obstructing Roads or Sidewalks by Residential or Commercial Establishments
+46. Other Restrictions
+47. Parking and Waiting in Prohibited Areas
+48. Parking Near Grade or Curve
+49. Parking on Parade Routes and on Any Special Occasion
+50. Parking for Certain Prohibited Purposes
+51. Projecting Loads on Passenger Vehicles
+52. Putting Glass, Sharp Objects on Highway
+53. Riding Bicycle and Tricycle Without Regular and Permanent Seat
+54. Reckless Driving
+55. Access Restriction on Some Roads
+56. Riding Bicycle More than Two Abreast
+57. Refusal to Have Vehicles Weighed and/or to Remove Excess Load
+58. Road Unworthiness of Motor Vehicle
+59. Sirens, Dazzling Lights, Similar Gadgets
+
+Fines:
+
+* 1,000.00 (without permit)
+* 500.00
+* 2,500.00
+* 2,500.00+ impounding
+* 1,000.00
+* 1,000.00
+* 200.00
+* 500.00
+* 500.00
+* Depending on the violation committed
+* 400.00
+* 500.00
+* 500.00
+* 400.00
+* 150.00
+* 500.00
+* 400.00
+* 2,000.00+ seminar
+* 2,500.00
+* 500.00
+* 500.00
+* 2,500.00+ impounding
+* 2,500.00
+* 2,500.00
+* 1,000.00
+* 2,000.00
+* 400.00
+* 1,000.00
+
+60. Street Diggings or Road Closure Without Permit
+61. Student Driver Permit
+62. Unauthorized Drag Racing/Speed Contest
+63. Towing of Bicycles
+64. Unregistered Motor Vehicle
+65. Unauthorized Change of Color/Engine
+66. Use, Posting or Display of Fake Unauthorized ID, Stickers, etc.
+67. Use of Expired Commemorative, License Plates, etc.
+68. Use of Signaling Devices
+69. Unauthorized Installation/Use of Jalousies, Additional Air-con, Dim-colored Lights, etc
+70. Unclean/Unsanitary Vehicle and Lack of Signs
+71. Taxi Without Meter/Uncalibrated or Tampered Taximeter Seal
+72. Tracking Mud Unto the Highway
+73. Violation of- No Left Turn, No Right Turn
+74. Violation of One-way Street
+75. Violation of No Entry Sign
+76. Violation of No Overtaking/No Passing Sign
+77. Violation of No Overtaking on Bridge Sign
+78. Violation of Bridge Load Limit
+79. Violation of Keep Right, Keep Left Sign
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

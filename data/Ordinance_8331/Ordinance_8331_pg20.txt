@@ -1,0 +1,26 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 20 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg20.txt
+Created: 2024-05-08T14:43:07.196304
+-----------------------------------------------------
+
+
+SEC. 51. City Government's Lien. The basic real property tax and any other tax levied under this Ordinance, constitutes a lien on the property subject to tax, superior to all liens, charges or encumbrances in favor of any person, irrespective of the owner or possessor thereof, enforceable by administrative or judicial action, and may only be extinguished upon payment of the tax and the related interests and expenses.
+
+SEC. 52. Levy on Real Property. After the expiration of the time required to pay the basic real property tax or any other tax levied under this Ordinance, real property subject to such tax may be levied upon through the issuance of a warrant on or before, or simultaneously with, the institution of the civil action for the collection of the delinquent tax. The City Treasurer when issuing a warrant of levy shall prepare a duly authenticated certificate showing the name of the delinquent owner of the property or person having legal interest therein, the description of the property, the amount of the tax due and the interest thereon. The warrant shall operate with the force of a legal execution throughout the City. The warrant shall be mailed to or served upon the delinquent owner of the real property or person having legal interest therein, or in case he is out of the country or cannot be located, to the administrator or occupant of the property.
+
+At the same time, written notice of the levy with the attached warrant shall be mailed to or served upon the City Assessor and the Register of Deeds of the City, who shall annotate the levy on the tax declaration and certificate of title of the property, respectively.
+
+The levying officer shall submit a report on the levy to the City Mayor and the Sangguniang Panlungsod within ten (10) days after receipt of the warrant by the owner of the property or person having legal interest therein.
+
+Without prejudice to criminal prosecution under the Revised Penal Code and other applicable laws, the City Treasurer or his deputy who fails to issue or execute the warrant of levy within one (1) year from the time the tax becomes delinquent or within thirty (30) days from the date of the issuance thereof, or who is found guilty of abusing the exercise thereof in an administrative or judicial proceeding shall be dismissed from the service.
+
+SEC. 53. Penalty for Failure to Issue and Execute Warrant.
+
+SEC. 54. Advertisement and Sale. Within thirty (30) days after service of the warrant of levy, the City Treasurer shall proceed to publicly advertise for sale or auction the property or a usable portion thereof as may be necessary to satisfy the tax delinquency and expenses of sale. The advertisement shall be effected by posting a notice at the main entrance of the City Hall building, and in a publicly accessible and conspicuous place in the barangay where the real property is located, and by publication once a week for two (2) weeks in a newspaper of general circulation in the City. The advertisement shall specify the amount of the delinquent tax, the interest due thereon and the expenses of sale, the date and place of sale, the name of the owner of the real property or person having legal interest therein, and a description of the property to be sold. At any time before the date fixed for the sale, the owner of the real property or person having legal interest therein may stay the proceedings by paying the delinquent tax, the interest due thereon and the expenses of sale. The sale shall be held either at the main entrance of the City Hall building, or on the property to be sold, or at any other place as specified in the notice of the sale.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

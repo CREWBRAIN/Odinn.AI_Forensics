@@ -1,0 +1,10 @@
+litellm
+pdf2image
+rich
+marker-pdf
+pymongo
+pyyaml
+tiktoken
+fastapi
+pdf2image
+pdfminer.six

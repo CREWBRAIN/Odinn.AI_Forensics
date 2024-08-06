@@ -1,0 +1,92 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 56 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg56.txt
+Created: 2024-05-08T14:43:07.474808
+-----------------------------------------------------
+
+
+3. Electrical Inspection Fees
+
+a. Every Inspection trip during construction
+20.00
+
+b. Annual Inspection Fees are the same as corresponding/installation fees prescribed under this code
+
+4. Annual Mechanical Inspection Fees
+
+a. Refrigeration and Ice Plants per ton
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 100 tons  | 20.00 |
+   | Above 100 tons  | 8.00  |
+   | Every ton or fraction thereof above 500 tons | 8.00 |
+
+b. Air Conditioning Systems
+
+1. Window type air-conditioners
+   | Residential    | Fee |
+   |---------------|------|
+   | Per unit      | 10.00 |
+   | Non-residential | 20.00 |
+
+2. Package or centralized air conditioning system
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 100 tons | 30.00 |
+   | Above 100 tons | 20.00 |
+   | Every ton or fraction thereof above 500 tons | 8.00 |
+
+c. Mechanical Ventilation per unit
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 1HP      | 10.00 |
+   | Above 1HP to 20HP | 80.00 |
+   | Above 20 HP    | 80.00 |
+
+d. Escalator and moving walks per unit
+
+e. Elevators per unit
+   | Type            | Fee |
+   |----------------|------|
+   | Passenger elevator | 150.00 |
+   | Each landing above the 5th | 150.00 |
+   | Each landing above the 5th | 500.00 |
+
+f. Boilers
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 1HP      | 350.00 |
+   | Above 10HP to 100HP | 800.00 |
+   | Every HP in excess of 100HP | 6.00 |
+
+g. Pressurized water heaters per unit
+   | Fee | 120.00 |
+
+h. Automatic fire extinguishers per sprinkler head
+
+i. Water and Sewage Pumps for buildings/structures for commercial/industrial
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 10HP      | 2.00 |
+   | Above 10HP to 90HP | 2.00 |
+   | Above 90 HP    | 2.00 |
+
+j. Standby generating sets per unit
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 10HP      | 80.00 |
+   | Above 10HP to 100HP | 240.00 |
+   | Every HP in excess of 100HP | 3.00 |
+
+k. Other internal combustion engines including cranes, forklifts, loaders, pumps
+   | Capacity        | Fee |
+   |----------------|------|
+   | Up to 10HP      | 80.00 |
+   | Above 10HP to 30HP | 240.00 |
+   | Every HP or a fraction thereof above 30HP | 3.00 |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

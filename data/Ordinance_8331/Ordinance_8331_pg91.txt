@@ -1,0 +1,102 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 91 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg91.txt
+Created: 2024-05-08T14:43:07.750472
+-----------------------------------------------------
+
+
+Case A-
+Case B-
+Case C-
+Case D-
+NEW IN-PATIENT BENEFIT SCHEDULE
+LEVEL 3 and 4 HOSPITALS (TERTIARY)
+
+Ordinary illness, NSD, Abortion, medical managed illness
+Intensive cases like CS, Cholecystectomy, Appendectomy
+Catastrophic illness, Orthopedic and Trauma cases
+Cases such as Dialysis, Cancer treatment, Organ transplant
+
+Benefit Item
+
+Nursery Fee
+Case Type
+100.00/day
+A
+B
+C
+D
+Room and Board (maximum of 45 Php 500
+days per year)
+Php 500
+Php 800
+Php 1,100
+Drugs and Medicine (per single 4,200
+period of confinement)
+14,000
+28,000
+40,000
+X-ray, Laboratory and others (per 3,200
+single period of confinement)
+10,500
+21,000
+30,000
+Operating Room
+Professional Fees
+31.) Daily visits
+General Practitioner (Group 1, 5 and 6)
+Per Day
+Maximum per confinement
+Php 300
+Php 1,200
+Php 400
+Php 2,400
+Specialists (Group 2, 3 and 4)
+Per Day
+Maximum per confinement
+For procedures with RVU 30 and below
+Php 1,200
+For procedures with RVU 31 to 80
+Php 1,500
+For procedures with RVU 81 to 600: RVU X PCF
+20 (minimum-Php 3,500)
+
+Case Type
+A
+B
+C
+D
+
+Professional Fees
+32.) Surgery
+For RVU 500 and below
+Surgeon
+C
+D
+General Practitioner
+40% of surgeon's
+fee (PF1)
+with Training 2
+Tier (Group 5 & 6)
+fee (PF1)
+Diplomat/Fellow
+3
+Tier (Groups 2, 3 and 4)
+For RVU 501 and above
+Surgeon
+RVUxPCF40-PF1 40% of surgeon's
+fee (PF1)
+RVUxPCF48-PF2 48% of surgeon's
+fee (PF1)
+RVUxPCF56-PF3 56% of surgeon's
+fee (PF1)
+fee (PF1)
+OPD Consultation Fee (initial) PhP 100.00
+OPD Follow-up Consultation Free
+ER Consultation Fee(initial) PhP 200.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,37 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 114 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg114.txt
+Created: 2024-05-08T14:43:06.897164
+-----------------------------------------------------
+
+
+SEC. 166. Juridical Persons Liable to Community Tax. Every corporation, no matter how created or organized, whether domestic or resident foreign, engaged in or doing business in the City of Manila shall pay an annual community tax of Five Hundred pesos (P500.00) and an annual additional tax which in no case shall exceed Ten thousand pesos (P10,000.00) in accordance with the following schedule:
+
+| For every Five Thousand Pesos (P5,000.00) worth of real property owned by it during the preceding year based on the valuation used for the payment of the real property tax under existing laws, found in the assessment rolls of the city | Two pesos (P2.00) |
+| For every Five Thousand Pesos (P5,000.00) of gross receipts or earnings derived by it from business during the preceding year | Two pesos (P2.00) |
+
+The dividends received by a corporation from another corporation, however, shall for the purpose of the additional tax be considered as part of the gross receipts or earnings of said corporation.
+
+SEC. 167. Exemptions.
+
+(1) The following are exempt from the community tax:
+    * Diplomatic and consular representatives
+    * Transient visitors when their stay in the Philippines does not exceed three (3) months
+
+SEC. 168. Time for Payment; Penalties for Delinquency.
+
+A. The community tax shall accrue on the first day of January of each year which shall be paid not later than the last day of February of each year. If a person reaches the age of eighteen (18) years or otherwise loses the benefit of exemption on or before the last day of June, he shall be liable for the community tax on the day he reaches such age or upon the day the exemption ends. However, if a person reaches the age of eighteen (18) years or loses the benefit of exemption on or before the last day of March, he shall have twenty (20) days to pay the community tax without becoming delinquent.
+
+Persons who come to reside in the Philippines or reach the age of eighteen (18) years on or after the first day of July of any year, or who cease to belong to an exempt class on or after the same date, shall not be subject to the community tax for that year.
+
+B. Corporations established and organized on or before the last day of June shall be liable for the community tax for that year. But corporations established and organized on or before the last day of March shall have twenty (20) days within which to pay the community tax without becoming delinquent. Corporations established and organized on or after the first day of July shall not be subject to the community tax for that year. If the tax is not paid within the time prescribed above, there shall be added to the unpaid amount an interest of twenty-four percent (24%) per annum from the due date until it is paid.
+
+SEC. 169. Community Tax Certificate.
+
+A community tax certificate shall be issued to every person or corporation upon payment of the community tax. A community tax certificate may also be issued to any person or corporation not subject to the community tax upon payment of One peso (P1.00).
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

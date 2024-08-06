@@ -1,0 +1,95 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 31 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg31.txt
+Created: 2024-05-08T14:43:07.288115
+-----------------------------------------------------
+
+
+SEC. 103. Tax on Essential Commodities. A percentage tax at the rate of one half (1/2) of the rates prescribed under Sections 101, 102, and 104 is hereby imposed on exporters, and on manufacturers, millers, producers, wholesalers, distributors, dealers or retailers of essential commodities enumerated hereunder:
+
+(1) Rice and corn,
+(2)
+(3)
+(4)
+(5)
+Wheat or cassava flour, meat, dairy products, locally manufactured, processed, or preserved food, sugar, salt and other agricultural, marine, and fresh water products whether in their original state or not,
+Cooking oil and cooking gas,
+Laundry soap, detergents, and medicine
+Agricultural implements, equipment and post harvest facilities, fertilizers, pesticides, insecticides, herbicides and other farm inputs,
+Poultry feeds and other animal feeds,
+(7)
+School supplies, and
+(8)
+Cement
+
+SEC. 104.
+
+Tax on Retailers-A percentage tax is hereby imposed on retailers
+
+GROSS SALES  AMOUNT OF TAX
+Annually
+Quarterly
+Over PhP 50,000.00 but less than PhP 400,000.00
+Over 400,000.00
+3%
+1.0%
+0.75%
+0.25%
+
+SEC. 105.
+
+Tax on Contractors. A percentage tax is hereby imposed on contractors and other independent contractors, in accordance with the following schedule:
+
+GROSS SALES  AMOUNT OF TAX
+Annually Quarterly
+less than 50,000.00
+907.50
+226.88
+50,000.00 or more but less than
+75,000.00 or more but less than
+100,000.00 or more but less than
+150,000.00 or more but less than
+200,000.00 or more but less than
+250,000.00 or more but less than
+300,000.00 or more but less than
+400,000.00 or more but less than
+500,000.00 or more but less than
+750,000.00 or more but less than 1,000,000.00
+1,000,000.00 or more but less than 2,000,000.00
+75,000.00
+1,452.00
+363.00
+100,000.00
+2,178.00
+544.50
+150,000.00
+3,267.00
+816.75
+200,000.00
+4,356.00 1,089.00
+250,000.00
+5,989.50
+1,497.38
+300,000.00
+7,623.00
+1,905.75
+400,000.00
+10,164.00 2,541.00
+500,000.00
+13,612.50 3,403.13
+750,000.00
+15,262.50
+3,815.63
+16,912.50
+4,228.13
+18,975.00
+4,743.75
+Over P2,000,000.00 P18,975.00 Plus 82.5% of 1% in excess of PhP 2,000,000.00
+
+SEC. 106. Tax on Banks and Other Financial Institutions A percentage tax is hereby imposed on banks and other financial institutions, at the rate of Twenty Two percent (22%) of One percent (1%) on the gross receipts of the preceding calendar year derived from interests, commissions and discounts from lending activities, income from financial leasing, dividends, rentals on property and profit from exchange or sale or property; PROVIDED, that the percentage tax on Gross Premiums of insurances shall be Twelve and One-tenth percent of one percent (12 1% of 1%).
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,63 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 90 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg90.txt
+Created: 2024-05-08T14:43:07.745514
+-----------------------------------------------------
+
+
+109. Smoke Belching
+110. Urinating/Defecating/Spitting
+111. Drinking Intoxicating Beverages in Public
+112. Illegal Dumping and Disposal of Garbage while driving or inside a moving vehicle
+113. Colorum Pedicab Ordinance 60, S. 1989
+114. Breach of Franchise Condition
+1st Offense: 2,000.00
+2nd Offense: 3,000.00
+3rd Offense: 4,000.00
+115. Colorum Operations of Cargo & Passenger Vehicle
+116. Colorum Operations of Tricycle - No CFC/Franchise
+117. Disregarding Lane Markings
+118. Illegal Counter flow
+119. Illegal Display of Signboards
+120. Improper Display of Plates
+121. Using Cell phone While Driving
+122. Arrogance, Discourtesy of Driver
+123. Expired, Delinquent Driver's License
+124. Allowing Passengers on Top of Vehicle
+125. Expired Registration
+126. Violating Vehicular Reduction Scheme
+127. Improper Used of Headlights
+128. Colorum operation of an unaccredited towing company
+129. Wheel Clamping (Ordinance 8109)
+130. Attempt to remove wheel clamp
+1st Offense: 1,000.00 + impounding
+2nd Offense: 2,000.00
+3rd Offense: 1,000.00
+4th Offense: 500.00
+5th Offense: 2,500.00
+6th Offense: 2,500.00 + impounding
+7th Offense: 900.00
+8th Offense: 1,000.00 + 1 month imprisonment at Court's discretion
+
+ARTICLE C
+HOSPITAL CHARGES
+SEC. 147. Hospital Charges - All patients need to undergo social worker classification based on current DOH manual standards and the result will be the basis if the patient can avail discounts.
+
+A and B:
+C1 (NM): 10% discount on total cost; while Non-Manila residents in full.
+C1 (M): 25% discount on total cost.
+
+C2 (NM): 10% discount on total cost.
+C2 (M): 50% discount on total cost.
+
+C3 (NM): 20% discount on total cost
+C3 (M): 75% discount on total cost.
+
+D1: Indigent Manila residents - FREE medical services.
+D2: Indigent Non-Manila residents - FREE to limited medical services.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

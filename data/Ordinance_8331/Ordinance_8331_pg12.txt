@@ -1,0 +1,34 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 12 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg12.txt
+Created: 2024-05-08T14:43:07.041929
+-----------------------------------------------------
+
+
+SEC. 19. Declaration of Real Property by the Owner or Administrator.
+
+It shall be the duty of all persons, natural or juridical, owning or administering real property, including the improvements, within the City of Manila, or their duly authorized representative, to prepare, or cause to be prepared, and file with the City Assessor, a sworn statement declaring the true value of their property, whether previously declared or undeclared, taxable or exempt, which shall be the current and fair market value of the property, as determined by the declarant. Such declaration shall contain a description of the property sufficient in detail to enable the City Assessor or his deputy to identify the same for assessment purposes. The sworn declaration of real property herein referred to shall be filed with the City Assessor once every three (3) years during the period from January first to June thirtieth commencing with the calendar year 2014.
+
+For this purpose, the City Assessor shall use the standard form known as sworn declaration of property values prescribed by the Department of Finance. The procedures in filing and safekeeping thereof shall be in accordance with the guidelines issued by the said department.
+
+SEC. 20. Duty of Person Acquiring Real Property or Making Improvements thereon.
+
+A. It shall be the duty of any person, or his authorized representative, acquiring at any time real property situated in the city or making any improvement on real property, to prepare, or cause to be prepared, and file with the City Assessor, a sworn statement declaring the true value of subject property, within sixty (60) days after the acquisition of such property or upon completion or occupancy of the improvement, whichever comes earlier.
+
+B. In the case of houses, buildings, or other improvements acquired, or newly constructed which will require building permits, property owners or their authorized representatives shall likewise file a sworn declaration of the true value of the subject house, building, or other improvement within sixty (60) days after:
+
+1. The date of a duly notarized final deed of sale, contract, or other deed of conveyance covering the subject property executed between the contracting parties.
+2. The date of completion or occupancy of the newly constructed building, house, or other improvement, whichever comes earlier.
+3. The date of completion or occupancy of any expansion, renovation, or additional structures or improvements made upon any existing building, house, or other real property, whichever comes earlier.
+
+C. In the case of machinery, the sixty-day (60) period for filing the required sworn declaration of property values shall commence on the date of installation thereof as determined by the City Assessor. For this purpose, the City Assessor may secure certification of the building official or engineer or other appropriate official stationed in the City.
+
+SEC. 21. Declaration of Real Property by the City Assessor.
+
+A. When any person, natural or juridical, by whom real property is required to be declared under this Ordinance refuses or fails for any reason to make such declaration within the time prescribed, the City Assessor shall himself declare the property in the name of the defaulting owner, and shall assess the property for taxation in accordance with the provisions of this Article.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

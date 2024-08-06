@@ -1,0 +1,76 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 81 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg81.txt
+Created: 2024-05-08T14:43:07.688514
+-----------------------------------------------------
+
+
+I Liquified Petroleum Gas Dealer
+1. Marketer
+2. Dealer
+1,000.00
+750.00
+J. Market Stallholders
+1. Public Markets
+   a. For each stall with 100 or more stallholders
+   b. For each stall with less than 100 stallholders
+2. Private Markets
+   a. Each stall
+   50.00
+   4000
+   50.00
+Stallholders with more than five (5) square meters and/or rendering special
+services, such as; pawnshops, appliance stores, banks and other similar
+establishments, shall be excluded under the term stallholders and levied garbage
+service charges, in accordance with the pertinent provisions herein.
+K. Media Facilities
+1. Newspapers, books or magazine publications:
+   a. Daily Newspapers Radio Stations
+   500.00
+   b. Weekly magazines
+   500.00
+   c. Books and other magazine publications
+   500.00
+2
+Radio Stations
+1,000.00
+3
+TV Stations
+1,300.00
+L. Telegraph, Teletype, Cable and Wireless Communication Companies, etc.
+1. Main Office
+1,500.00
+2. Every branch/station thereof
+500.00
+M. Telephone Companies
+1. Main Office
+2. Every branch/station thereof
+2,250.00
+1,200.00
+N. Terminal Garage for Bus, Taxi and Other Public Utility, Vehicles, Except those
+used for Home Garage.
+1. With an area of 1,000 sq. m. or more
+2. With an area of 700 or more but less than 1,000 sqm
+3. With an area of 500 or more but less than 700 sq. m.
+4. With an area of 300 or more but less than 500 sq. m.
+5. With an area less than 300 sq. m
+O. Peddlers, Ambulant Vendors, Except Delivery Van or Truck
+P. Administration Offices, Display Offices and/or Offices of
+Professions
+Q. Film shooting per day
+R. Private Warehouse or Bodega
+1,000.00
+800.00
+600.00
+400.00
+250.00
+20.00/sq.m./day
+300.00
+250.00
+750.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

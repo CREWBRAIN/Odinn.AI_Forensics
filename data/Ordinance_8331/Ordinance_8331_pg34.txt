@@ -1,0 +1,89 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 34 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg34.txt
+Created: 2024-05-08T14:43:07.302431
+-----------------------------------------------------
+
+
+2. Pyrolyxin
+Over 10 to 50 kgs
+Php 30.00
+Over 50 to 200 kgs
+Php 60.00
+Over 200 to 500 kgs
+Php 120.00
+Over 500 to 1,000 kgs
+Php 225.00
+Over 1,000 to 3,000 kgs
+Php 450.00
+Over 3,000 to 10,000 kgs
+Php 750.00
+Over 10,000 kgs
+Php 1,500.00
+
+3. Matches
+Over 25 to 100 kgs
+Php 30.00
+Over 100 to 500 kgs
+Php 150.00
+Over 500 to 1,000 kgs
+Php 300.00
+Over 500 to 1,000 kgs
+Php 600.00
+Over 5,000 kgs
+Php 1,200.00
+
+4. Nitrate, phosphorous, bromine, sodium, picric acid and others with
+hazardous, explosive, corrosive, oxidizing or lachrymatory properties:
+Over 5 to 100 kgs
+Php 30.00
+Over 25 to 500 kgs
+Php 45.00
+Over 100 to 1,000 kgs
+Php 112.50
+Over 500 to 1,000 kgs
+Php 225.00
+Over 1,000 to 5,000 kgs
+Php 337.50
+Over 5,000 kgs
+Php 450.00
+
+5. Shredded combustible materials such as wood shavings (kusot), waste (estopa), sisal, oakum and other similar combustible shaving and fine materials:
+Over 9 to 100 cu.ft
+Php 30.00
+Over 100 to 500 cu.ft
+Php 80.00
+Over 500 to 1,000 cu.ft
+Php 135.00
+Over 1,000 to 2,500 cu.ft
+Php 225.00
+Over 2,500 cu.ft
+Php 337.50
+
+6. Tar, resin, waxes, copra, rubber coal, bituminous coal and similar combustible materials:
+Over 50 to 100 kgs
+Php 33.75
+Over 100 to 1,000 kgs
+Php 67.50
+Over 1,000 to 5,000 kgs
+Php 135.00
+Over 5,000 kgs
+Php 225.00
+
+SEC. 109. Caterer's Tax. On gross receipts of proprietors and operators of
+cafes, cafeterias, ice cream and other refreshment parlors, restaurants, soda fountains,
+carinderias or food caterers including clubs and caterers an annual tax on the gross sales or
+receipts of the preceding calendar year is hereby imposed as follows, from-
+The sale of food, soft drinks or refreshment at one and one-tenth percent
+(1.1%);
+The sale of beer, wines and other liquor or alcoholic beverages at three percent (3%);
+The sale of cigarettes and other tobacco products at three percent (3%).
+
+On newly established business, a tax of one-half (1/2) of one percent (1%) of the
+capital investment is hereby imposed.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

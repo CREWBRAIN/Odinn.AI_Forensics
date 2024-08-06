@@ -1,0 +1,98 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 52 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg52.txt
+Created: 2024-05-08T14:43:07.454078
+-----------------------------------------------------
+
+
+Stationary Standby Generating Sets per unit
+
+a. Up to 10 HP
+b. Above 10 HP up to 30 HP
+c. Above 30 HP up to 50 HP
+d. Above 50 HP up to 70 HP
+e. Above 70 HP up to 90 HP
+f. Above 90 HP up to 100 HP
+g. Every HP in excess of 100 HP
+
+9
+
+Compressed air, vacuum, institutional and/or industrial gases per outlet
+
+10. Other internal combustion engines including cranes, forklifts, loaders, pumps, mixers, compressors and the like, not registered with LTO
+
+a. Up to 10 HP
+b. Above 10 HP up to 30 HP
+c. Above 30 HP up to 50 HP
+d. Above 50 HP up to 70 HP
+e. Above 70 HP up to 100 HP
+f. Every HP in excess of 100 HP
+
+11. Pressure vessels per cum or fraction thereof
+
+| Pressure Vessels | Fee |
+| --- | --- |
+| 350.00 | 500.00 |
+| 600.00 | 700.00 |
+| 800.00 | 900.00 |
+| 4.00 | 15.00 |
+| 250.00 | 300.00 |
+| 350.00 | 450.00 |
+| 500.00 | 3.00 |
+| 60.00 |  |
+
+12. Other machinery/equipment for commercial/industrial use not elsewhere specified per HP or a fraction thereof
+
+13. Pneumatic tubes, conveyors, monorails for materials handling per lineal meter or fraction thereof
+
+14. Inspection, Evaluation and processing of new layout plan
+
+15. Annual inspection of layout plan
+
+| Square Meters | Fee |
+| --- | --- |
+| For the first 50 sq m | 60.00 |
+| For sq m in excess of 50 sq.m. | 15.00 |
+
+J. Fencing Permit Fee - There shall be collected permit fees for the construction of fences, per lineal meter as listed below
+
+| Fences | Fee |
+| --- | --- |
+| 1. Fences made of indigenous materials, barbed wire, chicken wire, hog wire | 0.50 |
+| 2. Fences up to 1.80 meters in height, made of materials other than those mentioned above | 3.00 |
+| 3. Fences in excess of 1.80 meters in height, made of materials other than those mentioned above | 4.00 |
+
+K. Sign Permit Fees - There shall be collected sign permit fees for the following:
+
+a. Erection of supports of any signboard, billboard, marquee and the like
+
+| Signboard Area | Fee |
+| --- | --- |
+| Up to 4 sq.m. of signboard area |  |
+| Every sq.m. or fraction thereof in excess of 4 sq m |  |
+
+b. Installation of business signs, per sqm of display surface
+
+| Type of Sign | Fee |
+| --- | --- |
+| 1. Neon | 150.00 |
+| 2. Illuminated | 30.00 |
+| 3. Painted On | 35.00 |
+| 4. Multivision outdoor advertisement | 25.00 |
+| 5. Others such LED panels, video walls | 10.00 |
+
+c. Annual renewal fees, per sqm of display surface or fraction thereof
+
+| Type of Sign | Fee |
+| --- | --- |
+| 1. Neon | 100.00 |
+| 2. Illuminated | 12.00 |
+| 3. Painted On | 35.00 |
+| 4. Multivision outdoor advertisement | 20.00 |
+| 5. Others such LED panels, video walls | 70.00 |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

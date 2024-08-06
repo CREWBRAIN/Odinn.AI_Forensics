@@ -1,0 +1,34 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 7 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg7.txt
+Created: 2024-05-08T14:43:07.597000
+-----------------------------------------------------
+
+
+Here is the rewritten text:
+
+"Assessed Value" is the appraised value of the real property multiplied by the assessment level. It is synonymous to taxable value. "Commercial Land" is land devoted principally for the object of profit and is not classified as agricultural, industrial, mineral, timber, or residential land.
+
+"Depreciated Value" is the value remaining after deducting depreciation from the acquisition cost.
+
+"Economic Life" is the estimated period over which it is anticipated that a machinery or equipment may be profitably utilized.
+
+"Fair Market Value" is the price at which a property may be sold by a seller who is not compelled to sell and bought by a buyer who is not compelled to buy.
+
+"Improvement" is a valuable addition made to a property or an amelioration in its condition, amounting to more than a mere repair or replacement of parts involving capital expenditures and labor, which is intended to enhance its value, beauty, or utility or to adapt it for new or further purposes.
+
+"Industrial Land" is land devoted principally to industrial activity as capital investment and is not classified as agricultural, commercial, timber, mineral, or residential land.
+
+"Machinery" embraces machines, equipment, mechanical contrivances, instruments, appliances, or apparatus which may or may not be attached, permanently or temporarily, to the real property. It includes the physical facilities for production, the installations, and appurtenant service facilities, those which are mobile, self-powered, or self-propelled, and those not permanently attached to the real property which are actually, directly, and exclusively used to meet the needs of the particular industry, business, or activity and which by their very nature and purpose are designed for, or necessary to its manufacturing, mining, logging, commercial, industrial, or agricultural purposes.
+
+Machinery which are of general purpose use, including but not limited to office equipment, typewriters, telephone equipment, breakable or easily damaged containers (glass or cartons), microcomputers, facsimile machines, telex machine, cash dispensers, furniture and fixtures, freezers, refrigerators, display cases or racks, fruit juice or beverage automatic dispensing machines which are not directly and exclusively used to meet the needs of a particular industry, business, or activity shall not be considered within the definition of machinery under this rule. Residential machinery shall include machines, equipment, appliances, or apparatus permanently attached to residential land and improvement or those immovable by destination.
+
+"Reassessment" is the assigning of new assessed values to property, particularly real estate, as the result of a general, partial, or individual reappraisal of the property.
+
+"Remaining Economic Life" is the period of time expressed in years from the date of appraisal to the date when the machinery becomes valueless.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

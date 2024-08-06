@@ -1,0 +1,86 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 101 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg101.txt
+Created: 2024-05-08T14:43:06.763274
+-----------------------------------------------------
+
+
+u. Venous
+v. Treadmill
+3,000.00
+1,000.00
+w. Dialysis
+1,800.00/session
+a. Dialyzer
+b. Professional Fee
+1,000.00
+200/session
+25. MISCELLANEOUS FEES
+A. Cord dressing (per pack)
+B. Cotton balls (per pack)
+5.00
+4.00
+10.00
+C. Surgical gauze (per pack)
+D. Eye pad (per pack)
+4.00
+E. Oxygen used
+10.00/hr
+F. Energy for electric fan
+20.00
+30.00
+10.00
+100.00
+G. Energy for TV per day
+H. Medical Certificate
+I. Ambulance fee, in Manila
+J. Ambulance fee, in Metro Manila
+K. Suturing
+
+26. PHYSICAL THERAPY SERVICES:
+Consultation fee
+Ultrasound (US)
+Paraffin Wax Bath (PWB)
+Infrared Radiation (IRR)
+Traction (Cervical/Lumbar)
+Treadmill
+Whirlpool
+Acupuncture needles
+Professional fee
+100.00 + 5/km
+Cost of material
+(variable)
+500.00/session
+80.00/2 joints
+P30.00/Succeeding
+80.00/session
+80.00/session
+150.00/session
+150.00/session
+250.00/session
+100.00/session
+500.00/session
+PACKAGE A: P 200.00 per session
+One (1) Modality, Therapeutic Exercise, and Bicycle Ergo/Arm Restorator
+Modalities included HMP and TENS, US, PWB, IRR
+For every additional modality, the price will be added to the package
+
+ARTICLE D
+WATERWORKS SYSTEM CHARGES
+SEC. 148. Diggings/Excavations and Restoration Charges. An Ordinance governing
+road diggings/excavations and restorations in Manila is hereby adopted and made an integral part
+of this Ordinance and the charges and fees therein prescribed are hereby imposed, as enumerated
+hereunder:
+
+a) Restoration cost for the repair of
+earth/escombro roadways: per sq. m.
+Restoration cost for the repair of
+gravel/macadam paved streets: per sq.m.
+b) P 43.00
+190.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

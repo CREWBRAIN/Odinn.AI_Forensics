@@ -1,0 +1,95 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 9 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg9.txt
+Created: 2024-05-08T14:43:07.739514
+-----------------------------------------------------
+
+
+2) On buildings and other structures.
+
+a) Residential Fair Market Value
+Over
+Not over
+Assessment Levels
+P175,000.00
+0%
+P175,000.00
+P300,000.00
+10%
+P300,000.00
+P500,000.00
+20%
+P500,000.00
+P750,000.00
+25%
+P750,000.00
+P1,000,000.00
+30%
+P1,000,000.00
+P2,000,000.00
+35%
+P2,000,000.00
+P5,000,000.00
+40%
+P5,000,000.00
+P10,000,000.00
+50%
+
+b) Commercial/Industrial Fair Market Value
+Over
+Not Over
+Assessment
+P300,000.00
+30%
+P300,000.00
+P500,000.00
+35%
+P500,000.00
+P750,000.00
+40%
+P750,000.00
+P1,000,000.00
+50%
+P1,000,000.00
+P2,000,000.00
+60%
+P2,000,000.00
+P5,000,000.00
+70%
+P5,000,000.00
+P10,000,000.00
+75%
+P10,000,000.00
+80%
+
+3) On machineries.
+
+Class
+Assessment Levels
+Residential
+50%
+Commercial
+80%
+Industrial
+80%
+
+4) On special classes. The assessment levels for all lands, buildings, machineries and other improvements shall be as follows:
+
+Actual use
+Cultural
+Scientific
+Hospital
+Local water districts
+Government-owned or controlled corporations engaged in the supply and distribution of water and/or generation and transmission of electric power
+Assessment Levels
+15%
+15%
+15%
+15%
+10%
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,50 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 84 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg84.txt
+Created: 2024-05-08T14:43:07.706514
+-----------------------------------------------------
+
+
+Garbage Service Charges for Residential Units - For residential units with an area less than 100 sq m., an amount of Ten Pesos (PHP 10.00) per month, shall be collected for garbage fees and an additional of Ten Pesos (PHP 10.00) per month if excess of 100 sq. m area. The fees shall be collected together with their real property payments.
+
+CHAPTER V-CITY CHARGES
+ARTICLE A
+FISHERY RENTALS, FEES AND CHARGES
+SEC. 145. Fishery Rentals, Fees and Charges.
+
+Rate of Rentals. The rate of fishery rentals within Manila for the grant of exclusive fishery rights to erect fish corals, operate fishponds or oyster beds, or catch "bangus" fry or "kawag-kawag" or fry of any other species of fish for propagation, if there are no interested bidders in the public auction, are as follows:
+
+a) Erection of fish corals in the sea:
+    Less than 3 meters deep          45.00
+    3 meters or more but less than 5 meters deep          90.00
+    5 meters or more but less than 8 meters deep          300.00
+    8 meters or more but less than 10 meters deep          540.00
+    10 meters or more but less than 15 meters deep          750.00
+    15 meters deep or more          1,200.00
+
+b) Operation of fishponds or oyster culture beds, per hectare          5.00
+
+c) Catching of bangus fry or kawag-kawag:
+    Less than 1,000 sq. m.          750.00
+    1,000 sq. m. or more but less than 2,000 sq. m          1,200.00
+    2,000 sq. m. or more but less than 4,000 sq. m          2,250.00
+    4,000 sq. m. or more but less than 6,000 sq. m          3,300.00
+    6,000 sq. m. or more but less than 8,000 sq. m          4,500.00
+    8,000 sq. m or over          6,000.00
+
+d) 1. Fish corals or fish pens in inland fresh waters with an area of:
+    Less than 500 sq. m.          150.00
+    500 sq. m. or more but less than 1,000 sq m          300.00
+    1,000 sq. m. or more but less than 5,000 sq. m          540.00
+    5,000 sq. m. or more but less than 10,000 sq. m          750.00
+    10,000 sq. m. or more          1,200.00
+
+2. For the grant of privilege to take fish from city waters with nets, traps or other fishing gears          15.00
+
+3. For the operation of a fishing vessel of three (3) tons or less          22.50
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,110 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 76 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg76.txt
+Created: 2024-05-08T14:43:07.638990
+-----------------------------------------------------
+
+
+B. Blood Chemistry
+
+1. Random blood sugar
+80.00
+2. Fasting blood sugar
+80.00
+3. Post prandial blood sugar
+4. Glucose tolerance test
+160.00
+80.00
+5. Blood uric acid
+6. Blood cholesterol
+7. Blood urea nitrogen
+8. Blood creatinine
+9. Total protein
+10. Albumin
+80.00
+100.00
+80.00
+80.00
+40.00
+11. Globulin
+40.00
+12. A/G ratio
+80.00
+13. Bilirubin I & II (B1B2)
+100.00
+14. SGOT (AST)
+80.00
+15. SGPT (ALT)
+80.00
+16. Triglyceride
+17. Alkaline phosphatase
+18. Potassium (K)
+19. Sodium (Na)
+20. Calcium (Ca)
+21. Chloride (Cl)
+22. HDL cholesterol
+
+C. Hematology
+
+1. CBC (Complete Blood Count)
+2. Hemoglobin
+120.00
+120.00
+250.00
+250.00
+500.00
+250.00
+120.00
+60.00
+60.00
+3. Hematocrit
+20.00
+4. RBC (Red Blood Cell) Count
+60.00
+5. WBC (White Blood Cell) Count
+60.00
+6. Platelet count
+60.00
+7. ESR (Erythrocyte Sedimentation Rate)
+100.00
+8. Bleeding time
+40.00
+9. Clotting time
+40.00
+10. Malaria smear
+100.00
+11. Peripheral Blood Smear
+60.00
+
+D. Enteric Bacteriology
+
+1. Culture
+150.00
+2. Culture & sensitivity test
+300.00
+3. Gram staining
+50.00
+4. KOH (Potassium Hydroxide Smear)
+50.00
+5. Nose & Throat Swab (for diptheria)
+150.00
+6. Food Analysis
+200.00
+
+E. Cytology
+
+1. Pap's smear
+
+F. T.B. Bacteriology
+
+1. Sputum for AFB (direct smear for AFB)
+2. Sputum culture (TB culture)
+100.00
+50.00
+150.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

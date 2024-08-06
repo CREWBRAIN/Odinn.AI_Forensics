@@ -1,0 +1,71 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 51 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg51.txt
+Created: 2024-05-08T14:43:07.449532
+-----------------------------------------------------
+
+
+20. Miscellaneous fees:
+
+a. Each union, separation, alteration, re-connection or relocation of electric meter
+Residential: $20.00
+Commercial/Industrial: $50.00
+Institutional: $30.00
+b. Issuance of wiring permits
+Residential: $20.00
+Commercial/Industrial: $50.00
+Institutional: $30.00
+
+H. Mechanical Permit Fees-There shall be collected mechanical permit fees for the installation, alteration or repair of elevator, escalators, conveyors, boilers, pumps, fans, blowers, pressure vessels, furnaces, air conditioning or refrigerating equipment, gas and fuel system and the like
+
+1. HVAC-Heating, Ventilation and Air Conditioning
+a. Refrigeration (cold storage) per ton or fraction thereof: $60.00
+b. Ice plants per ton or fraction thereof: $70.00
+c. Package or centralized air-conditioning system
+Up to 100 tons: $100.00
+Every ton or fraction thereof above 100 tons: $50.00
+d. Window type air conditioners of commercial/industrial use per unit: $70.00
+e. Mechanical Ventilation per HP or fraction thereof of blower or fan or metric equivalent: $25.00
+
+2. Escalators and Moving Walks
+Up to 50 lineal meters: $25.00
+Every lineal meter or a fraction thereof in excess of 50 lineal meters: $25.00
+
+3. Elevators per unit
+a. Up to 1,000 kg capacity: $5,000.00
+b. Above 1,000 kg capacity: $6,000.00
+c. Freight elevators
+d. Car Elevators
+f. Motor driven dumbwaiters
+Boilers
+a. Up to 10 HP: $6,000.00
+b. Above 10 HP up to 30 HP: $6,000.00
+c. Above 30 HP up to 50 HP: $6,000.00
+d. Above 50 HP up to 70 HP: $6,000.00
+e. Above 70 HP up to 90 HP: $6,000.00
+f. Above 90 HP up to 100 HP: $6,000.00
+g. Every HP in excess of 100HP: $6,000.00
+4. Construction elevators for materials
+a. Up to 1,000 kg capacity: $2,000.00
+b. Above 1,000 kg capacity: $5,000.00
+c. Above 5,000 kg capacity: $7,000.00
+d. Above 10,000 kg capacity: $9,000.00
+e. Above 15,000 kg capacity: $11,000.00
+f. Above 20,000 kg capacity: $13,000.00
+g. Above 25,000 kg capacity: $15,000.00
+h. Above 30,000 kg capacity: $17,000.00
+i. Above 35,000 kg capacity: $19,000.00
+j. Above 40,000 kg capacity: $21,000.00
+k. Above 45,000 kg capacity: $23,000.00
+l. Above 50,000 kg capacity: $25,000.00
+
+5. Pressurized water heaters per unit: $250.00
+
+6. Water and Sewage Pumps for buildings/structures for commercial/industrial
+social and institutional purposes per unit, per HP or fraction thereof: $50.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

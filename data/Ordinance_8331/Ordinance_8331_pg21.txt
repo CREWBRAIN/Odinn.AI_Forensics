@@ -1,0 +1,30 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 21 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg21.txt
+Created: 2024-05-08T14:43:07.202197
+-----------------------------------------------------
+
+
+Within thirty (30) days after the sale, the City Treasurer or his deputy shall make a report of the sale to the Mayor and the Sanggunian Panlungsod, and which shall form part of his records. The City Treasurer shall likewise prepare and deliver to the purchaser a certificate of sale which shall contain the name of the purchaser, a description of the property sold, the amount of the delinquent tax, the interest due thereon, the expenses of sale, and a brief description of the proceedings. Provided, however, that proceeds of the sale in excess of the delinquent tax, the interest due thereon, and the expenses of sale shall be remitted to the owner of the real property or person having legal interest therein within a reasonable time after the expiration of the period of redemption and upon written demand and proof of ownership of the owner.
+
+The City Treasurer may advance an amount sufficient to defray the costs of collection through the remedies provided for in this Article, including the expenses of advertisement and sale.
+
+SEC. 55. Redemption of Property Sold. Within one (1) year from the date of sale, the owner of the delinquent real property or person having legal interest therein, or his representative, shall have the right to redeem the property upon payment to the City Treasurer of the amount of the delinquent tax, including the interest due thereon, and the expenses of sale from the date of delinquency to the date of sale, plus interest of two percent (2%) per month on the purchase price from the date of sale to the date of redemption less the amount of the excess proceeds referred to in the immediately preceding section. Such payment shall invalidate the certificate of sale issued to the purchaser, and the owner of the delinquent real property or person having legal interest therein shall be entitled to a certificate of redemption which shall be issued by the City Treasurer or his deputy.
+
+From the date of sale until the expiration of the period of redemption, the delinquent real property shall remain in the possession of the owner or person having legal interest therein who shall be entitled to the income and other fruits thereof.
+
+The City Treasurer or his deputy, upon receipt from the purchaser of the certificate of sale, shall act forthwith return to the latter the entire amount paid by him plus interest of two percent (2%) per month. Thereafter, the property shall be free from the lien of such delinquent tax, interest due thereon, and expenses of sale.
+
+SEC. 56. Final Deed to Purchaser. In case the owner or person having legal interest therein fails to redeem the delinquent property as provided herein, the City Treasurer shall execute a deed conveying to the purchaser said property, free from lien of the delinquent tax, interest due thereon, and expenses of sale. The deed shall briefly state the proceedings upon which the validity of the sale rests.
+
+SEC. 57. Purchase of Property by the City Government for Want of Bidder. - In case there is no bidder for the real property advertised for sale as provided herein, or if the highest bid is for an amount insufficient to pay the real property tax and the related interest and cost of sale, the City Treasurer conducting the sale shall purchase the property in behalf of the City Government to satisfy the claim, and within two (2) days thereafter shall make a report of his proceedings which shall be reflected upon the records of his office to the Mayor and the Sangguniang Panlungsod.
+
+It shall be the duty of the Register of Deeds upon registration with his office of any such declaration of forfeiture to transfer the title of the forfeited property to the City without the necessity of an order from a competent court.
+
+Within one (1) year from the date of such forfeiture, the taxpayer or any of his representatives may redeem the property by paying to the City Treasurer the full amount of the real property tax and the related interest and the costs of sale. If the property is not redeemed as provided herein, the ownership thereof shall be fully vested on the City.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

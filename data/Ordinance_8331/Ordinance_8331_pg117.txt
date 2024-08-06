@@ -1,0 +1,30 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 117 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg117.txt
+Created: 2024-05-08T14:43:06.917992
+-----------------------------------------------------
+
+
+SEC. 175. Keeping of Books of Accounts. Any person doing business within the territorial jurisdiction of the City of Manila shall keep books of accounts wherein all transactions and results of business operations are shown and from which all taxes, charges and fees due the city may readily and accurately be determined at any time of the year. Provided, however, that any such person who already keeps books of accounts in pursuance with the provisions of the National Internal Revenue Code, shall no longer be required to keep separate books for purposes of this Ordinance. Books of accounts not required under this Ordinance, shall be registered at the City Treasurer's Office.
+
+SEC. 176. Public Utility Charges, Toll Fees or Charges. The Sanggunian shall prescribe the terms and conditions and fix the rates for the use of public utilities owned, operated and maintained by the City, and the imposition of toll fees or charges for the use of any public road, pier or wharf, waterway, bridge, ferry or telecommunication system funded and constructed by the City: Provided, That no such toll fees or charges shall be collected from officers and enlisted men of the Armed Forces of the Philippines and members of the Philippine National Police on mission, post office personnel delivering mail, physically handicapped, and disabled citizens who are sixty-five (65) years or older.
+
+SEC. 177. Tax Period and Manner of Payment. Unless otherwise provided in this Ordinance, the tax period of all local taxes, fees and charges shall be the calendar year. Such taxes, fees and charges may be paid in quarterly installments.
+
+SEC. 178. Accrual of Tax. Unless otherwise provided in this Ordinance, all local taxes, fees and charges shall accrue on the first day of January of each year. However, new taxes, fees or charges, or changes in the rates thereof, shall accrue on the first day of the quarter next following the effectivity of the ordinance imposing such new levies or rates.
+
+SEC. 179. Time of Payment; Discount for Full Payment.
+
+A) Unless otherwise provided in this Ordinance, all local taxes, fees, and charges shall be paid within the first twenty (20) days of January or each of the subsequent quarter, as the case may be. The Sanggunian may, for a justifiable reason or cause, extend the time for payment of such taxes, fees, or charges without surcharges or penalties, but only for a period not exceeding six (6) months. Such taxes may be paid in quarterly installments.
+
+B) If the taxpayer pays the whole tax due for one (1) year on or before the 20th day of January, he is hereby granted a ten (10%) percent discount.
+
+SEC. 180. Surcharges and Penalties on Unpaid Taxes, Fees, or Charges. There is hereby imposed a surcharge of twenty-five percent (25%) of the amount of taxes, fees or charges not paid on time and an interest at the rate of two percent (2%) per month of the unpaid taxes, fees or charges including surcharges, until such amount is fully paid, but in no case shall the total interest on the unpaid amount or portion thereof exceed thirty-six (36) months.
+
+SEC. 181. Interests on Other Unpaid Revenues. Where the amount of any other revenue due the City, except voluntary contributions or donations, is not paid on the date fixed in the ordinance, or in the contract, expressed or implied, or upon the occurrence of the event which has given rise to its collection, there shall be collected as part of that amount an interest thereon at the rate not exceeding two percent (2%) per month from the date it is due until it is paid, but in no case shall the total interest on the unpaid amount or a portion thereof exceed thirty-six (36) months.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

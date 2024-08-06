@@ -1,0 +1,104 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 96 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg96.txt
+Created: 2024-05-08T14:43:07.774483
+-----------------------------------------------------
+
+
+4) Cervical APLO
+a) Cervicothoracic AP
+$540.00
+$200.00
+b) Cervicothoracic APL
+$400.00
+c) Cervicothoracolumbar AP
+$200.00
+d) Cervicothoracolumbar APL
+$400.00
+b. Neck (2 views)
+$120.00
+c. Submento-vertico/vertico submento
+$150.00
+d. Axis and atlas (2)
+$60.00
+e. Thoracic vertebra (2 views)
+$300.00
+Additional views
+1) Thoracolumbar AP 11x
+$250.00
+2) Thoracolumbar APL 11x
+$300.00
+3) Thoracolumbar Lat 11x
+$200.00
+4) Thoracolumbar Obl 14x
+$200.00
+5) Thoracolumbar AP 14x
+$200.00
+6) Thoracolumbar APL 14x
+$300.00
+7) Thoracolumbar Lat 14x
+$200.00
+8) Thoracolumbar Obl 11x
+$200.00
+9) Scoliosis Series 11x (4)
+$500.00
+10) Scoliosis Series 14x (4)
+$600.00
+11) Lumbosacral vertebra (2 views)
+$110.00
+12) Lumbosacral AP 11x
+$250.00
+13) Lumbosacral AP 14x
+$290.00
+14) Lumbosacral APL 11x
+$400.00
+15) Lumbosacral APL 14x
+$350.00
+16) Lumbosacral APLO 11x
+$400.00
+17) Lumbosacral BAPLO 11x
+$500.00
+18) Lumbosacral B-Obl 11x
+$520.00
+19) Lumbosacral B-Obl 14x
+$590.00
+20) Lumbosacral Lat 11x
+$250.00
+21) Lumbosacral BAPLO 14x
+$800.00
+22) Lumbosacral APLO 14x
+$400.00
+23) Sacrum (2 views)
+$60.00
+24) Coccyx (2 views)
+$60.00
+a) Sacrum/Coccyx AP10x and 8x
+$250.00
+b) Sacrum/Coccyx APL10x & 8x
+$250.00
+25) Pelvis(AP only)
+$80.00
+a) Pelvis AP 14x
+$290.00
+b) Pelvis APL 14x
+$590.00
+c) Pelvis APL 11x
+$520.00
+d) Pelvis AP 11x
+$250.00
+26) Hip joint, one side (2 views)
+$100.00
+a) Hip 11x
+$270.00
+b) Hip Lateral 11x
+$270.00
+c) Hip AP 14x
+$290.00
+d) Hip Lat 14x
+$290.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

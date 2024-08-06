@@ -1,0 +1,43 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 123 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg123.txt
+Created: 2024-05-08T14:43:07.089817
+-----------------------------------------------------
+
+
+CHAPTER VIII
+GENERAL PENAL PROVISIONS
+SEC. 198. Penalty for Failure to Present Books of Accounts. Any taxpayer who fails or refuses to present the books of accounts of his business for examination pursuant to Section 44 of this Ordinance shall be punishable for a fine of not less than One Thousand Pesos (P1,000.00) nor more than Five Thousand Pesos (P5,000.00) or imprisonment of not less than one (1) month nor more than six (6) months, or both, at the discretion of the court, and to the administrative penalty prescribed hereunder for every year, in addition to whatever surcharges, interest, tax or fee as may be due, based on the declared annual gross receipts or sales for the corresponding year:
+
+| Declared Annual Gross Receipts or Sales | Administrative Penalty |
+| --- | --- |
+| Less than P10,000 | P500.00 |
+| P10,000 or more but less than 50,000 | P1,000.00 |
+| 50,000 or more but less than 100,000 | P2,000.00 |
+| 100,000 or more but less than 200,000 | P3,000.00 |
+| 200,000 or more but less than 500,000 | P4,000.00 |
+| 500,000 or over | P5,000.00 |
+
+The above-mentioned failure or refusal to present the required books of accounts for examination shall ipso facto be a ground for the closure of the business establishment concerned.
+
+SEC. 199. Penalty for Violation of this Ordinance. Any violation of the provision of this Ordinance shall be punishable by a fine of not less than One Thousand Pesos (P1,000.00) nor more than Five Thousand Pesos (P5,000.00) or imprisonment of not less than one (1) month nor more than six (6) months, or both, at the discretion of the court.
+
+SEC. 200. Conflict Resolution - In all cases of controversy in the implementation or interpretation of the provisions of this Ordinance, the same may be referred to by an interested party to the Oversight Committee, which is hereby created to be composed of the following officials:
+
+a. The Secretary to the Mayor
+b. The City Legal Officer
+c. The City Treasurer
+d. The Chairman of the Committee on Laws
+e. The Chairman of the Committee on Ways and Means
+
+CHAPTER IX
+FINAL PROVISIONS
+SEC. 201. Statutory Limitations. In compliance with Section 191 of the Local Government Code of 1991, in no case shall adjustment of tax rates exceeding 10% of the rates fixed under the code shall be adopted.
+
+SEC. 202. Separability Clause. If any clause, sentence, paragraph, section, or part of this Ordinance shall be adjudged by any court of competent jurisdiction to be invalid, such judgment shall not affect, impair, or invalidate the remainder of said Ordinance, but shall be confined in its operation to the clause, sentence, paragraph, section, or part thereof directly involved in the controversy.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

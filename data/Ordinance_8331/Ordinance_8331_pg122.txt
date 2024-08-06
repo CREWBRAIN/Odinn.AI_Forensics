@@ -1,0 +1,35 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 122 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg122.txt
+Created: 2024-05-08T14:43:07.084400
+-----------------------------------------------------
+
+
+SEC. 192. Final Deed to Purchaser. In case the taxpayer fails to redeem the property as provided herein, the City Treasurer shall execute a deed conveying to the purchaser so much of the property as has been sold, free from liens of any taxes, fees, charges, related surcharges, interests, and penalties. The deed shall succinctly recite all the proceedings upon which the validity of the sale depends.
+
+SEC. 193. Purchase of Property by the City for Want of Bidder. In case there is no bidder for the real property advertised for sale as provided herein, or if the highest bid is for an amount insufficient to pay the taxes, fees, or charges, related surcharges, interests, penalties, and costs, the city treasurer conducting the sale shall purchase the property in behalf of the City to satisfy the claim and within two (2) days thereafter shall make a report of his proceedings which shall be reflected upon the records of his office. It shall be the duty of the Registrar of Deeds upon registration with his office of any such declaration of forfeiture to transfer the title of the forfeited property to the city without the necessity of an order from a competent court. Within one (1) year from the date of such forfeiture, the taxpayer or any of his representatives may redeem the property by paying to the city treasurer the full amount of the taxes, fees, charges, and related surcharges, interests, or penalties, and the costs of sale. If the property is not redeemed as provided herein, the ownership thereof shall be fully vested on the City.
+
+SEC. 194. Resale of Real Estate Taken for Taxes, Fees, or Charges-The Sanggunian shall, by ordinance duly approved, and upon notice of not less than twenty (20) days, sell and dispose of the real property acquired under the preceding Section at public auction. The proceeds of the sale shall accrue to the general fund of the City.
+
+SEC. 195. Collection of Delinquent Taxes, Fees, Charges or Other Revenues Through Judicial Action. The city may enforce the collection of delinquent taxes, fees, charges or other revenues by civil action in any court of competent jurisdiction. The civil action shall be filed by the city treasurer within the period prescribed in Section 46 of this Ordinance.
+
+SEC. 196. Further Distraint or Levy. The remedies by distraint and levy may be repeated if necessary until the full amount due, including all expenses, is collected.
+
+SEC. 197. Personal Property Exempt from Distraint or Levy. The following property shall be exempt from distraint and the levy, attachment or execution thereof for delinquency in the payment of any local tax, fee or charge, including the related surcharge and interest:
+
+| Number | Property |
+| --- | --- |
+| 1 | Tools and the implements necessarily used by the delinquent taxpayer in his trade or employment; |
+| 2 | Horse, cow, carabao, or other beast of burden, such as the delinquent taxpayer may select, and necessarily used by him in his ordinary occupation; |
+| 3 | His necessary clothing, and that of all his family, |
+| 4 | Household furniture and utensils necessary for housekeeping and used for that purpose by the delinquent taxpayer, such as he may select, of a value not exceeding Ten Thousand Pesos (P10,000.00); |
+| 5 | Provisions including crops, actually provided for individual or family use sufficient for four (4) months; |
+| 6 | The professional libraries of doctors, engineers, lawyers and judges; |
+| 7 | One fishing boat and net, not exceeding the total value of Ten Thousand Pesos (P10,000.00), by the lawful use of which a fisherman earns his livelihood; |
+| 8 | Any material or article forming part of a house or improvement of any real property. |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

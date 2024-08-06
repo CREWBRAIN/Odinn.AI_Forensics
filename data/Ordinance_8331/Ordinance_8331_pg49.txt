@@ -1,0 +1,99 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 49 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg49.txt
+Created: 2024-05-08T14:43:07.434527
+-----------------------------------------------------
+
+
+2. Construction of Septic Vault
+    a. Residential
+    b. All other categories
+        Up to 5 cu m of digestion chamber
+        Every cu m or fraction thereof in excess of 5 cu m
+        100.00
+        2000
+        600
+
+G. Electrical Permit Fees - the following fees shall be collected upon the issuance of electrical permit
+    1. Lighting Power System for all Categories
+        a. Each switch, lighting and convenience outlet
+        100
+        b. Each remote master switch
+        2500
+        c. Each special purpose outlet of 20 capacity amperes or more
+        d. Each time switch
+        400
+        400
+
+2. Appliance for commercial, industrial and institutional use
+    a. Each range or heater
+        up to 1 KW
+        Every KW per fraction thereof in excess of 1 KW
+    b. Each refrigerator or freezer
+    c. Each washing machine or dryer
+        400
+        150
+        500
+    d. Each commercially used hair curling apparatus or hair dryer
+        500
+    e. Each hand dryer
+        3.00
+    f. Each fixed type electric fan
+        3.00
+
+8. Each electric typewriter, computer, cash register or adding machine
+    h. Each electrical exhaust fan
+        3.00
+        3.00
+        3
+
+Electrical equipment or apparatus for commercial, industrial, institutional use
+    a. Each electric bell, announciator system
+        6.00
+    b. Each fire alarm unit
+        3.00
+    c. Each arc (light) lamp
+        12.00
+    d. Each flasher, beacon light
+        5.00
+    e. Each x-ray equipment, ultrasound, dialysis machine and other medical, dental and optical equipment
+        30.00
+    f. Each battery charging rectifier
+        15.00
+    8. Each electrical welder
+        Up to 1 KVA/KW
+        6.00
+        Every KVA/KW or fraction thereof in excess of 1 KVA/KW
+        3.00
+    h. Each Neon Sign Unit
+    i. Each Telephone Switchboard (PBX, PABX, TELEX machine
+        3.00
+    j. Each trunk line
+    k. Each Telephone apparatus
+    l. Each intercom master
+    m. Each Slave
+    n. Each Computer
+    o. Each video monitor
+        6.00
+    p. Each copier, copying machine, fax machine, paper shredder, scanner, printer
+    Each film processing and developing machine
+    4. Motion Picture Projector for Commercial use per unit
+    a
+        16mm
+        10 00
+        10:00
+        10 00
+        100 00
+        100 00
+    b. 35mm
+    c. 70 mm
+    5. TV cameras for commercial/industrial use per unit
+        15000
+        200 00
+        50.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

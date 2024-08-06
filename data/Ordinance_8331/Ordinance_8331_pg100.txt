@@ -1,0 +1,119 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 100 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg100.txt
+Created: 2024-05-08T14:43:06.756610
+-----------------------------------------------------
+
+
+B. Kidneys
+          Kidneys/Adrenals
+  2,500.00 3,500.00
+  3,500.00 4,500.00
+
+i. Lower Abdomen
+  4,000.00 5,000.00
+  j. Lower Abdomen with rectal
+  5,000.00 6,000.00
+  k. Pelvis
+  3,000.00 4,000.00
+  l. Pelvis with rectal
+  3,500.00 4,500.00
+
+m. Whole Abdomen
+  6,000.00 7,000.00
+  n. Whole Abdomen with rectal
+  6,500.00 7,500.00
+
+o. Chest
+  3,000.00 4,000.00
+
+p. Spine
+  1) Cervical
+    2,500.00 3,500.00
+  2) Thoracic
+    2,800.00 3,800.00
+  3) Lumbosacral
+    3,000.00 4,000.00
+
+9. Screening Sinus
+  r. Extremity
+    2,000.00 3,000.00
+  3,500.00 4,500.00
+
+s. Additional Plain procedure for direct
+  contrast study
+  1,500.00
+
+23. PROFESSIONAL FEE ON PROCEDURE (Radiologist)
+  a. FNAB/UTZ Biopsy
+    2,500.00
+  b. Chest mapping
+    400.00
+  c. CT biopsy
+    3,000.00
+  d. Hysterogram
+    1,000.00
+  e. T-tube
+    1,000.00
+
+24. OTHER SERVICES
+  a. Electrocardiogram (ECG)
+  b. Lumbar Puncture
+  c. Stomach Lavage
+  d. Application, strap adhesive
+  e. Application, plaster cast
+  f. Dental Extraction (1 tooth)
+    & Dental Temporary Filling (per tooth)
+  h. Dental Permanent Filling (per tooth)
+  i. Dental Prophylaxis
+  j. Cobalt Therapy, per exposure
+  k. 2D Echocardiography
+  l. 2D Echo with Doppler
+  m. Arterial
+    190.00
+  n. Pay
+    20.00
+  o. Service-donation
+    20.00
+  p. plus materials
+    15.00
+  q. plus materials
+    20.00
+  r. plus materials
+    20.00
+  s. plus materials
+    10.00
+  t. 1,900.00
+  u. 2,300.00
+  v. 3,000.00
+  w. 1,000.00
+  x. 2,000.00
+  y. 2,000.00
+  z. 4,000.00
+
+q. Dobutamine Stress Echo
+  4,000.00
+
+r. PFT/Spirometry
+  1,000.00
+
+s. Renal Duplex Scan
+  4,000.00
+
+t. Stress Echo
+  2,500.00
+
+n. BMD (Central)
+  20.00
+
+o. BMD (Whole)
+  20.00
+
+p. Carotid
+  20.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

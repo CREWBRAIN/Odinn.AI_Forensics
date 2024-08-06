@@ -1,0 +1,68 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 58 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg58.txt
+Created: 2024-05-08T14:43:07.488806
+-----------------------------------------------------
+
+
+b. Drilling to tap groundwater or for soil testing operations within the territorial jurisdiction of The City of Manila shall require a permit from the City Engineer before they can undertake.
+
+c. Application for a permit to undertake excavations and drilling shall be filed with the City Engineer. The application shall be released within fifteen (15) days after submission of all the requirements.
+
+d. The permit to undertake excavations and drilling shall contain, among other such conditions as may be necessary to ensure public safety and convenience. All excavations shall be in accordance with the excavation and installation plans approved by the City Engineer.
+
+e. All excavations and drillings shall be subject to the supervision of the City Engineer or his duly authorized representatives to ensure compliance with the installation plans and other conditions set forth in the permit.
+
+W. Payment of Fees
+
+The following permit fees shall be collected from all applicants for a permit to excavate or drill:
+
+1. Processing Fee
+
+a. For poles and house connections: ₱500.00
+b. For digging water connections or drilling or wells: ₱300.00
+c. For soil testing operations per bore hole: ₱300.00
+d. For all other excavations: ₱1,000.00
+
+2. Excavation Permit Fee
+
+a. Underground utility lines
+
+1. For a maximum width of trench of 0.50 meter: ₱500.00
+2. First 50 lineal meter length of excavation: ₱15.00
+3. Over 50 lineal meter of length per meter or fraction thereof: ₱15.00
+4. Excess of over 0.50 width of trench of excavation per meter: ₱15.00
+
+b. For drilling wells per meter
+
+1. 50 mm pipes: ₱6.00
+2. 75 mm pipes: ₱9.00
+3. 100 mm pipes: ₱12.00
+4. 125 mm pipes: ₱15.00
+5. Over 125 mm pipes: ₱18.00
+
+c. For installation of wooden/concrete utility poles per pole: ₱30.00
+d. For foundation of structures per square meter: ₱25.00
+
+3. Restoration Fee per square meter or fraction thereof
+
+a. Concrete pavement
+
+1. 100 mm thickness: ₱100.00
+2. 150 mm thickness: ₱200.00
+3. 200 mm thickness: ₱300.00
+4. 250 mm thickness: ₱400.00
+5. 300 mm thickness: ₱500.00
+
+b. Macadam pavement
+c. Asphalt pavement
+d. Concrete sidewalk
+e. Curb and gutter per lineal meter: ₱800.00, ₱900.00, ₱1,000.00, ₱1,200.00, ₱1,500.00
+
+X. Time of payment - The fee imposed under this Ordinance shall be paid to the City Treasurer before the permit to excavate or drill is issued. Such permit is valid only when the official receipt covering payment of the prescribed fees is attached thereto.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

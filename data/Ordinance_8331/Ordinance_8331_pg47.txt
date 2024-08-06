@@ -1,0 +1,75 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 47 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg47.txt
+Created: 2024-05-08T14:43:07.425031
+-----------------------------------------------------
+
+
+2 Commercial/Industrial
+Up to 10 meters in height
+Every meter or a fraction thereof in excess of 10 meters
+
+3 Institutional
+Up to 10 meters in height
+Every meter or a fraction thereof in excess of 10 meters
+
+e Commercial/Industrial Storage Silos
+Up to 10 meters in height
+Every meter or a fraction thereof in excess of 10 meters
+
+f Construction of smokestacks and chimneys
+for commercial and industrial use
+
+1 Smokestacks
+Up to 10 meters in height measured from the base
+Freestanding Trilon/Guyed
+	* 2500
+	* 500 00
+	* 150
+	* 30 00
+	* 2000
+	* 300 00
+	* 100
+	* 2500 00
+	* 50 00
+	* 250.00
+Every meter or fraction thereof in excess of 10 meters
+
+2 Chimneys
+Up to 10 meters in height measured from the base
+	* 50.00
+Every meter or fraction thereof in excess of 10 meters
+
+g Construction of Commercial/Industrial fixed ovens per sq. m. or a fraction thereof
+h Construction of industrial kiln furnace per cum or a fraction thereof
+i Construction of Reinforced concrete or steel tanks for residential building up to 2 cu. m.
+	* Exempted
+	* Every cu. m. or fraction thereof in excess of 2 cu. m
+	* 25,00
+
+j Construction of Reinforced concrete or steel tanks for commercial/industrial use
+	* Up to 10 cu. m.
+	* 500.00
+	* 25.00
+Every cu. m. or fraction thereof in excess of cu. m.
+
+k Construction of waste treatment tank including sedimentation or chemical treatment per cu. m.
+i Construction of Steel tanks for commercial and industrial use
+1 Above ground up to 10 cu. m.
+	* 800.00
+Every cu. m. or fraction thereof in excess of 10 cu. m. up to 100 cu. m.
+	* 25.00
+Every cu. m. or fraction thereof in excess of 100 cu. m. up to 1000 cu. m.
+	* 20.00
+Every cu. m. or fraction thereof in excess of 1000 cu. m. up to 5000 cu. m.
+Every cu. m. or fraction thereof in excess of 5000 cu. m. up to 10000 cu. m.
+Every cu. m. or fraction thereof in excess of 10000 cu. m. up to 20000 cu. m.
+	* 15.00
+	* 10.00
+	* 8.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

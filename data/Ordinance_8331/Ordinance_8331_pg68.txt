@@ -1,0 +1,117 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 68 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg68.txt
+Created: 2024-05-08T14:43:07.569308
+-----------------------------------------------------
+
+
+D.) De-worming
+
+E.) For roundworms, hookworms, and the like:
+
+* Puppies
+* Older dogs, depending on the weight of the dog
+
+For tapeworms:
+
+* Category 1
+* Category 2
+* Out-Patient treatment: Both categories, including fluids, antibiotics, and vitamins
+
+F.) Ear Cleaning with Otitis: Should depend on the medication used
+
+G.) Tick and Mite Control
+
+H.) Bath
+
+* Ordinary
+* Medicated
+
+I.) Obstetrics
+
+* Natural Delivery
+* Extraction of dead fetus
+* Caesarian Operation
+* Category 1
+* Category 2
+* Php 50.00
+* 200.00-300.00
+* 200.00
+* 350.00
+* Php 300.00
+* Php 50.00-250.00
+* Php 200.00
+* Php 150.00
+* 300.00
+* Php 350.00
+* 400.00
+* 1,500.00
+* 2,500.00
+
+J.) Heart Worm Prevention
+
+* Ivermectin
+* Php 150.00
+
+K.)
+
+L.)
+
+* 33
+* Wound Dressing
+* Vaccination
+* DHLP
+* Php 120.00
+* Php 350.00
+* Rabies
+* 50.00
+
+M.) Surgery
+
+* Tail Docking
+	+ One week old
+	+ 2-4 weeks old
+	+ 5 weeks old and above
+* Ear Cropping
+* Spraying
+* Category 1
+* Category 2
+* Castration
+	+ All categories
+* Anal sac resection
+* Hernia Repair
+	+ Umbilical
+	+ Inguinal and Scrotal
+* Mastectomy
+	+ Category 1
+	+ Category 2
+* Auricular Hematoma
+* Other minor surgery
+* Other major surgery
+
+N.) Euthanasia
+
+* Dog
+* Cat
+* Php 50.00
+* 250.00
+* 550.00
+* 500.00
+* 1,500.00
+* 500.00
+* 1,500.00
+* 800.00
+* 1,200.00
+* 1,000.00
+* 3,000.00
+* 500.00-800.00
+* 800.00
+* 3,000.00
+* Php 500.00
+* 200.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

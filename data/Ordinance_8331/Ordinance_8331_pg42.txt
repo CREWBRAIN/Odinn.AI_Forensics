@@ -1,0 +1,34 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 42 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg42.txt
+Created: 2024-05-08T14:43:07.382221
+-----------------------------------------------------
+
+
+For sealing of gasoline/diesel pumps:
+
+| Category | Fee |
+| --- | --- |
+| Residential | 200.00 |
+| Commercial | 100.00 |
+| Industrial | 500.00 |
+| Others | 100.00 |
+
+For each and every re-testing and re-sealing of weights and measures instruments (including gasoline and diesel pumps) outside the Office, upon request of the owner or operator shall be collected for each instrument and pump, an additional Weights and Measures Fee of Fifty Pesos (PhP50.00) shall be imposed.
+
+Payment of Fees and Surcharge
+The fees herein imposed shall be paid to and collected by the Office of the City Treasurer upon the sealing or licensing of the weights and measures instruments and renewable on or before the anniversary date thereof. The official receipt evidencing payment shall serve as the license to use such instrument for one year from the date of sealing unless it becomes defective before the expiration period. Failure to have the instrument re-tested and the corresponding fee paid thereof within the prescribed period shall subject the owner or user to a surcharge of five hundred (500%) per centum of the prescribed fees, which shall no longer be subject to interest.
+
+Unlawful possession or use of instrument not sealed before using and not sealed within twelve (12) months from last sealing:
+Any person making a practice of buying or selling goods by weights and measures or of furnishing services the value of which is estimated by weight or measure, who has in his possession, without permit, any unsealed scale, balance, weight or measure, and any person who uses in any purchase or sale or in estimating the value of any service furnished, any instrument of weight and measure that has not been officially sealed, or if previously sealed, the license therefore has expired and was not renewed in due time, shall be punished by a fine of not exceeding Five Hundred (P500.00) Pesos or by imprisonment of not exceeding one (1) year, or both at the discretion of the court.
+
+If, however, such scale, balance, weights or measures, has been officially sealed at some previous time and the seal, and tag officially affixed thereto remain intact and in the same position and condition in which they were place by the official sealer, and the instrument is found not to have been altered or rendered inaccurate but still to be sufficiently accurate to warrant its being sealed without repairs or alterations, such instrumental shall, if presented for sealing promptly on demand of any authorized sealer or inspector of weights and measures, be sealed and the owner, possessor or user of the same shall be subject only to a surcharge equal to five (5) times the regular fee fixed by law for the sealing of an instrument of its class, this surcharge to be collected and accounted for by the City Treasurer in the same manner as the regular fees are collected and accounted for sealing such instruments.
+
+Alteration or fraudulent use of instrument of weights and measures:
+1. Any person, who, with fraudulent intent, alters any scale or balance, weight or measure after it is officially sealed, or who knowingly uses any false scale or balance, weight or measure, whether sealed or not, shall be punished by a fine of not less than four hundred (P400.00) pesos nor more than four thousand (P4,000.00) pesos or by imprisonment of not less than three (3) months nor more than two (2) years, or both at the discretion of the court.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

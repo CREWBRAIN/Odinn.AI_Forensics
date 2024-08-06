@@ -1,0 +1,63 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 62 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg62.txt
+Created: 2024-05-08T14:43:07.536476
+-----------------------------------------------------
+
+
+SEC. 122. Administrative Penalties
+
+Any applicant, proponent, proprietor, owner, or representative who commits any of the following acts shall, after due notice, be punished by a fine in accordance with the following schedule:
+
+A. Unauthorized expansion or alteration of a fine any activity formerly covered by Certificate of Non-Conformance
+
+B. For committing fraud or misrepresentation
+
+1. Fraud or misrepresentation as to use
+2. Fraud/misrepresentation as to location
+3. Non-disclosure or any material fact
+
+A fine equivalent to 100% of the prescribed zoning of P2,000.00 or more than P10,000.00
+
+5,000.00
+2,000.00
+5,000.00
+
+C. For refusing admission within any premises subject to inspection by a duly authorized inspector:
+
+1. First refusal
+2. Subsequent refusal
+
+2,000.00
+5,000.00
+
+D. For failing or refusing, without justifiable reason, to appear during a proceeding before the Office of the Zoning Official or the duly authorized officers
+
+2,000.00
+
+E. For failing to post zoning permit prior to business and zoning certificate number prior to building construction
+
+1,000.00
+
+SEC. 123. Surcharge
+
+A surcharge of twenty-five percent (25%) based and added to the corresponding processing fee plus interest of fourteen percent (14%) per annum shall be imposed on all structures/operations without any Zoning Permit or Certificate of Non-Conformance upon implementation of this Ordinance.
+
+SEC. 124. Surcharge and Interest on Unpaid Zoning and/or Locational Clearance
+
+A surcharge of twenty-five (25%) shall be imposed on the amount of fee not paid on time and an interest at the rate of fourteen percent (14%) per annum on all structures/operations without any Locational Clearance or Certificate of Non-Conformance upon implementation of this Ordinance.
+
+NOTE: In case of approved appeals, the applicable zoning fee will be based on the higher zone classification.
+
+LEGEND:
+TLA - total lot area
+TBA - total base area
+TFA - total floor area
+TSA - total surface area
+Page 62 of 124
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

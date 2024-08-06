@@ -1,0 +1,73 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 66 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg66.txt
+Created: 2024-05-08T14:43:07.558804
+-----------------------------------------------------
+
+
+E.) Cattle Registration
+1) Local
+2) National
+Php 10.00
+5.00
+
+F.) Refrigeration/Chilling Fee. There shall be charged and collected the following fees by the City Treasurer on all meats stored in the different chilling/refrigeration room in the City Slaughterhouse at Vitas, Tondo, Manila, for each day or fraction thereof.
+
+1. Chilling
+    For each quarter of large cattle
+    For each carcass of hog and small animal
+2. Blast Freezing
+3. Storage
+Php 20.00/day
+25.00/day
+2.50/kilo
+0.10/kilo
+
+G.) Carcass Fabrication/choice meat cuts production. There shall be charged and collected the following fee by the City Treasurer for the use of the City Slaughterhouse facilities/utilities for meat fabrication and production of choice meat cuts.
+
+For every kilo of finished products
+Php 0.50
+
+H.) Entry Fee. Meat of livestock and poultry from animals slaughtered outside the City of Manila whether from domestic or foreign source, meat, fisheries products and other livestock and poultry products which are brought into the City for trading, processing, consumption or disposal therein, shall pass through the Veterinary Inspection Board for inspection and shall be required to pay an Entry Fee according to the following rates:
+
+    Beef/Carabeef
+    1.
+    2.
+    Pork
+    3.
+    Chevon/mutton and the like
+    4.
+    Poultry
+    5.
+    Processed meat
+    6.
+    Fish and other fisheries products
+    7.
+    Eggs
+Php 25.00/quarter
+25.00/head
+0.25/kilo
+0.25/head
+0.25/kilo
+0.25/dozen
+
+L) Landing Fee. Livestock and poultry brought into the City of Manila shall pass through the Veterinary Inspection Board for inspection and shall be charged a landing fee as follows:
+
+1. Large Cattle
+2.
+3. Small animals
+4. Hog
+5. Poultry
+J.)
+Php 20.00/head
+5.00/head
+10.00/head
+0.25/head
+
+Penalty. Any person or corporation who shall violate any of the above provisions shall be punished upon conviction by final judgment by a fine of one thousand (P1,000.00) but not more than six thousand (P6,000.00) or imprisonment of one month but not more than six month or both upon the discretion of the court. The meat and carcasses, including processed meat, involved shall likewise be confiscated and disposed in accordance with the existing sanitary rules and regulations of the City of Manila.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

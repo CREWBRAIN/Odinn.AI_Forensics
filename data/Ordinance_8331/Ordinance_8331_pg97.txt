@@ -1,0 +1,109 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 97 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg97.txt
+Created: 2024-05-08T14:43:07.779483
+-----------------------------------------------------
+
+
+27) Femur, Tibia, Humerus Radio-ulna (2)
+
+a) Femur/Thigh APL 11x & 14X
+b) Femur/Thigh APL 10x and 8X
+c) Leg APL 10x and 8x
+d) Leg APL 11x and 14x
+e) Shoulder AP
+f) Shoulder APL
+g) Shoulder B-Obl
+100 00
+300 00
+270.00
+270.00
+300.00
+200 00
+500.00
+500.00
+h) Shoulder Lat
+200.00
+1) Shoulder Obl
+200 00
+j) Humerus APL 11x and 14x
+300 00
+k) Humerus APL 10x and 8x
+270 00
+1) Elbow APL
+270 00
+m) Stress Elbow
+270.00
+n) Forearm 11x
+270.00
+o) Forearm 14x
+300.00
+
+28) Hands, Feet, Knee or Ankle
+
+a) Hand APL/Hand APO
+270 00
+b) Hand APLO
+400 00
+c) Wrist APL
+270.00
+d) Wrist Ulnar flexion
+270 00
+c) Foot APL/Foot APO
+270 00
+1) Foot APLO
+420 00
+g) Knee APL
+270 00
+h) Stress Knee
+270.00
+i) Skyline
+200 00
+j) Tangential
+270.00
+k) Ankle APL/Mortise
+270.00
+1) Calcaneus
+270 00
+
+29) Finger of Toe
+
+a) Phalanges
+270 00
+b) Big toe/Thumb
+27000
+
+18. X-ray Abdomen
+
+a) KUB
+1) PlainKUB/Plain Abdomen 11x
+2) PlainKUB/Plain Abdomen 14x
+250 00
+290.00
+3) KUB-IVP (regular)
+4) KUB-IVP (non-ionic)
+b) Supine & Upright Abdomen
+1) Upright Abdomen 11x
+2) Upright Abdomen 14x
+c) Intravenous Pyelography
+d) IVP plus Urethrogram
+e) Cystogram
+f) Pelvimetry (2 views)
+g) Oral Gall Bladder Series
+Page 97 of 124
+3,100.00
+4,200.00
+100.00
+250.00
+290.00
+300.00
+400.00
+2,700.00
+290.00
+150.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

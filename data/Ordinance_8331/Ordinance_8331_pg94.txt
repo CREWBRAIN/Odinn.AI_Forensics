@@ -1,0 +1,115 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 94 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg94.txt
+Created: 2024-05-08T14:43:07.765483
+-----------------------------------------------------
+
+
+            2) T4
+8
+Immunology
+a Thyroid Test
+$140.00
+1) T3
+$150.00
+$150.00
+$260.00
+$260.00
+$260.00
+$1,900.00
+$1,100.00
+3) TSH
+4) FT3
+5) FT4
+b Thyroglobulin
+c. Intact PTH
+9 Fertility
+a FSH/LH
+b. BETA-HCG
+c. Prolactin
+$290.00 each
+$340.00
+$340.00
+10. Hormones/Steroids
+a.
+Estrogen
+$1,240.00
+b Progesterone
+$1,240.00
+c. Testosterone
+$590.00
+d.
+Ferritin
+$1,000.00
+e. Cortisol
+$540.00
+11 Tumor Markers
+a AFP
+b. CEA
+C. PSA
+d
+CA 19-9
+e. CA 125
+f CA 15-3
+8 CA 72-4
+12. Hepatitis
+$440.00
+$440.00
+$790.00
+$1,100.00
+$900.00
+$1,100.00
+$2,900.00
+a HBsAg (Screening)
+$90.00
+b. HBsAg Confirmatory
+$190.00
+c. Anti-HBS (Screening)
+$90.00
+d Anti-HBS Confirmatory
+$190.00
+e. HBeAg
+$240.00
+f. Anti-Hbe
+$240.00
+g. Anti-HBCIgM
+$240.00
+h. Anti-HBCIG
+$240.00
+i. Anti-HCV
+j. Anti-HAVIgM
+k. Anti-HAVIgG
+$490.00
+$240.00
+$240.00
+1 Hepa A Profile
+$620.00
+m. Hepa B Profile
+$870.00
+n Hepa A&B Profile
+$1,120.00
+o. Hepa A, B, & C Profile
+$1,370.00
+13. Serology
+a. TPHA (Screening)
+b TPHA (with Titer)
+c. Typhidot
+d. Salmonella
+c. ASO
+f. CRP
+g. RF/RA Latex
+h. C3
+$140.00
+$340.00
+$440.00
+$945.00
+$120.00
+$90.00
+$90.00
+$440.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

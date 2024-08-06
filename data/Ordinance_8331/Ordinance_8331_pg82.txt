@@ -1,0 +1,87 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 82 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg82.txt
+Created: 2024-05-08T14:43:07.694510
+-----------------------------------------------------
+
+
+S. All other businesses and service agencies not specifically mentioned above:
+
+1. Manufacturers, producers and processors:
+a. Factory with an aggregate area of:
+   1,000 sq.m. or more
+    ₱3,000.00
+   500 or more but less than 1,000 sq.m.
+    ₱2,000.00
+   200 or more but less than 500 sq.m.
+    ₱1,800.00
+   100 or more but less than 200 sq.m.
+    ₱1,400.00
+   50 or more but less than 100 sq.m.
+    ₱1,000.00
+   25 or more but less than 50 sq.m.
+    ₱500.00
+   Less than 25 sq.m.
+    ₱1,000.00
+
+b. Principal/Branch or Sales Office with an
+   aggregate area of:
+   Factory is
+   Within
+   same
+   Outside the
+   Locality
+   Locality
+   Per Quarter
+   1,000 sq.m. or more
+    ₱1,200.00
+    ₱1,000.00
+   500 or more but less than 1,000 sq.m.
+    ₱950.00
+    ₱1,200.00
+   200 or more but less than 500 sq.m.
+    ₱600.00
+    ₱900.00
+   100 or more but less than 200 sq.m.
+    ₱500.00
+    ₱700.00
+   50 or more but less than 100 sq.m.
+    ₱300.00
+    ₱500.00
+   25 or more but less than 50 sq.m.
+    ₱150.00
+    ₱300.00
+   Less than 25 sq.m.
+    ₱100.00
+    ₱250.00
+    ₱750.00/quarter
+
+2. Exporter/Importers
+
+3. Brewers, Distillers, Compounders
+   and Public Eating Places with an
+   aggregate area of
+   Per Quarter
+   1,000 sq. m. or more
+    ₱3,500.00
+   500 or more but less than 1000 sq.m.
+    ₱2,500.00
+   200 or more but less than 500 sq.m.
+    ₱1,800.00
+   100 or more but less than 200 sq.m.
+    ₱1,400.00
+   50 or more but less than 100 sq.m.
+    ₱1,000.00
+   25 or more but less than 50 sq.m.
+    ₱600.00
+   Less than 25 sq.m.
+    ₱300.00
+   Carinderia
+    ₱150.00
+   Page 82 of 124
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,39 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 75 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg75.txt
+Created: 2024-05-08T14:43:07.633999
+-----------------------------------------------------
+
+
+In case an individual, a partnership or a corporation conducts or operates two or more businesses in one place or establishment, the sanitary inspection permit fee shall be imposed on the business with the highest rate.
+
+ARTICLE E
+SERVICE FEES FOR HEALTH EXAMINATION
+
+SEC. 138. Health Certificate Fee - Every person required by existing laws and regulations to secure health certificates from the Office of the City Health Office shall pay an annual fee of one hundred (P100.00) pesos.
+
+SEC. 139. Time of Payment - The sanitary inspection and health certificate fees herein prescribed shall be paid at the Office of the City Treasurer concerned before any business or occupation may be lawfully begun or pursued and upon renewal of the same every year thereafter within the first twenty (20) days of January.
+
+SEC. 140. Annual Inspection of Premises for Rent - Except as otherwise provided, the Local Health Officer or his duly authorized representative shall conduct an annual inspection of all houses, accessorias or buildings for rent or as soon as circumstances require and all business establishments (commercial, industrial, agricultural) in order to determine their adequacy of ventilation, propriety of habitation and general sanitary conditions pursuant to the existing laws, rules and regulations. Sanitary permit shall be issued to the owner by the Local Health Officer or his duly authorized representative after such inspection was conducted and found to be sanitary.
+
+SEC. 141. Contents of Sanitary Permit - Every permit issued shall show the name of the applicant, his nationality, civil status, address, nature of organization, (whether sole proprietorship, partnership or corporation), location of the building and such other data as may be necessary. The permit shall be granted for a period of not more than one year and shall expire on the 31st day of December following the date of issuance thereof, unless revoked or surrendered earlier. When Business is Deemed Finally Closed - Every permit shall cease to be in force upon revocation or surrender thereof, or upon closure of the business or discontinuance of the undertaking for which the permit was issued. The business shall be deemed finally closed, only upon payment of all taxes, fees and charges due thereon.
+
+ARTICLE F
+PUBLIC HEALTH LABORATORY EXAMINATION CHARGES
+
+SEC. 142. Public Health Laboratory Examination Charge - The rate of Public Health Laboratory Examination Charges are as follows:
+
+| Examination | Rate |
+| --- | --- |
+| Blood Typing (ABO) | 50.00 |
+| Rh Typing | 50.00 |
+| RPR (Rapid Plasma Reagin) | 100.00 |
+| TPHA (Confirmatory for syphilis) | 150.00 |
+| HBs Ag (for Hepatitis) | 200.00 |
+| Screening for HIV | 250.00 |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,72 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 50 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg50.txt
+Created: 2024-05-08T14:43:07.444531
+-----------------------------------------------------
+
+
+6. Motors and controlling apparatus per unit
+a. Up to 1/4 HP
+b. Above 1/4 HP up to 1 HP
+c. Above 1 HP up to 15 HP
+d. Above 5 HP up to 10 HP
+e. Above 10 HP up to 20 HP
+f. Every HP in excess of 20 HP
+
+7. Generators (AC or DC) per unit
+a. Up to 1 KW
+b. Above 1 KW up to 5 KW
+c. Above 5 KW up to 10 KW
+d. Above 10 KW up to 15 KW
+e. Every KW or fraction thereof in excess of 20 KW
+
+8. Transformer and sub-stations equipment
+a. Each transformer up to 1 KVA
+b. Every KVA or fraction thereof in excess of 1 KVA up to 2,000 KVA
+c. Each transformer above 2,000 KVA
+d. Each safety switch or circuit breaker up to 50 amperes and not exceeding 600 volts
+e. Each safety switch, air circuit breaker, oil circuit breaker, or vacuum circuit breaker other than motor controlling apparatus, above 50 amperes up to 100 amperes, and not exceeding 600 volts
+f. Every 50 amperes or fraction thereof in excess of 100 amperes
+g. Every 10,000 amperes or fraction thereof of interrupting capacity of every air circuit breaker, oil circuit breaker, or vacuum circuit breaker operating above 600 volts
+
+9. Telecommunications facilities
+a. Cell sites (cellular/micro-wave antennae)
+b. Pay phone booth
+c. Telephone exchange/booster box
+
+10. Vending machines
+
+11. Automatic teller machines
+
+12. Credit card verifier/validating machines
+
+13. Price/Bar code scanners
+50.00
+
+14. Electronic Cash Register
+200.00
+
+15. Electronic Weighing Machines
+200.00
+
+16. Each temporary lighting or convenience outlet for celebration, ferrias or construction purposes
+2.00
+
+17. Other electrical apparatus or appliances not otherwise provided for in this Section, every KW or fraction thereof
+6.00
+
+18. Temporary current connection:
+a. Temporary current connection permit shall be issued for testing and commissioning purposes only in commercial and/or industrial establishments. Regular fees shall be charged and collected in accordance with the fees prescribed in this Item.
+b. If no final approval is issued within sixty (60) days, a new wiring permit shall be secured and all corresponding permit shall be paid.
+
+19. Pole/attachment location plan permit:
+a. Approved pole location plan permit, per pole
+b. Approved attachment location plan permit, per attachment
+
+30.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

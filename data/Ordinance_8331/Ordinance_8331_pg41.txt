@@ -1,0 +1,37 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 41 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg41.txt
+Created: 2024-05-08T14:43:07.373223
+-----------------------------------------------------
+
+
+35) All occupations or callings subject to periodic inspection, surveillance and/or regulation by the City Mayor like animal trainer, auctioneer, barber, bartender, beautician, bondsman, butcher, caddy (golf), chambermaid, rig driver (cochero), cook, counter girl, criminologist, electrician, embroiderer, club/floor manager, food checker, forensic expert, hair stylist, handwriting expert, hospital attendant, lifeguard, machinist, make-up artist, manicurist, masseur-attendant, mechanic, photographer (itinerant), private ballistic expert, sales agent, saleslady, shoe cobbler, tailor or master cutter, taxi-dancer, teller and/or cashier except those employed by the bank or similar financial and investment institution, usher, waiter and other occupations or calling of the same or similar category
+
+36) In case of application to operate or maintain business other than occupation and practice of any profession or calling, a fee of One Thousand Pesos (Php1,000.00), shall be collected as cost of inspection, if the total amount of taxes, fees and charges due is less than One Thousand Pesos (Php1,000.00) or the business declared no sales or failed to operate for whatever reason, which should be duly certified by the Barangay Chairman.
+
+ARTICLE B
+FEES FOR SEALING AND LICENSING OF WEIGHTS AND MEASURES
+SEC. 119. Imposition of Fees. All instruments for determining weights and measures in all consumer and other related transactions shall be tested, calibrated and sealed every six (6) months by the official sealer of the City of Manila upon payment of fees required under existing laws.
+
+a) For sealing linear metric measures:
+  | Not over one meter | 10.00 |
+  | Over one meter | 20.00 |
+
+b) For sealing metric measures of capacity:
+  | Not over ten liters | 10.00 |
+  | Over ten liters | 20.00 |
+
+c) For sealing metric instruments of weights:
+  | w/capacity of not more than 30 kg. | 20.00 |
+  | w/capacity of more than 30 kg. but not more than 150 kg. | 30.00 |
+  | w/capacity of more than 150 kg. but not more than 300 kg. | 40.00 |
+  | w/capacity of more than 300 kg. but not more than 500 kg. | 50.00 |
+  | w/capacity of more than 500 kg. but not more than 3000 kg. |  |
+
+d) For sealing apothecary balance or other balances of precision | 100.00 |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

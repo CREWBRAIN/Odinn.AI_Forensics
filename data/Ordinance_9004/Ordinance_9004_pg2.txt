@@ -1,0 +1,37 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 9004
+Page Number: 2 of 3
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_9004\Ordinance_9004_pg2.txt
+Created: 2024-05-08T14:43:23.899290
+-----------------------------------------------------
+
+
+Be it ordained by the City Council of Manila, in session assembled, THAT:
+
+SECTION 1. There shall be an increase in the monthly allowances of judiciary personnel assigned in the City of Manila effective January 1, 2024, to wit:
+
+| AUTHORIZED DESIGNATION/ | CURRENT ALLOWANCE | NUMBER OF ALLOWANCE/ | EFFECTIVE | TOTAL APPROPRIATION | PERSONNEL | MONTH | JANUARY 1, | FOR CY 2023 | NEEDED APPROPRIATION | FOR CY 2024 | 2024 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| RTC JUDGES | 35,000.00 | 38,000.00 | 29,820,000.00 | 32,376,000.00 | (71) |
+| RTC CLERK OF COURT VI & | 15,000.00 | 17,000.00 | 180,000.00 | 204,000.00 | EX-OFFICIO SHERIFF (1) |
+| RTC ASST. CLERK OF COURT (1) | 7,500.00 | 14,000.00 | 90,000.00 | 168,000.00 |
+| METC JUDGES | 25,000.00 | 28,000.00 | 9,000,000.00 | 10,080,000.00 | (30) |
+| METC CLERK OF COURT (1) | 15,000.00 | 17,000.00 | 180,000.00 | 204,000.00 |
+| METC ASST. CLERK OF COURT (1) | 13,000.00 | 14,000.00 | 156,000.00 | 168,000.00 |
+| CITY PROSECUTOR (1) | 17,000.00 | 20,000.00 | 204,000.00 | 240,000.00 |
+| DEPUTY CITY PROSECUTORS (6) | 13,000.00 | 15,000.00 | 936,000.00 | 1,080,000.00 |
+| SENIOR ASST. CITY PROSECUTORS (62) | 11,000.00 | 13,000.00 | 8,184,000.00 | 9,672,000.00 |
+| ASST. CITY PROSECUTORS (64) | 11,000.00 | 13,000.00 | 8,448,000.00 | 9,984,000.00 |
+| PROSECUTION ATTORNEY (1) | 11,000.00 | 13,000.00 | 132,000.00 | 156,000.00 |
+| PHP. 57,330,000.00 | PhP. 64,332,000.00 |
+
+SEC. 2. A modified and increased amount of Sixty-Four Million Three Hundred Thirty-Two Thousand Pesos (PhP. 64,332,000.00) shall be appropriated in the Annual Executive Budget CY 2024 and thereafter, under allowances for judiciary personnel assigned in the City of Manila.
+
+SEC. 3. Repealing Clause. -All ordinances or parts thereof inconsistent with this Ordinance are hereby repealed, amended or modified accordingly.
+
+Providing for additional allowances for Judiciary Personnel assigned in the City of Manila | 2
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

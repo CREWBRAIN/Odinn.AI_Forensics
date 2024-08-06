@@ -1,0 +1,45 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 8 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg8.txt
+Created: 2024-05-08T14:43:07.677514
+-----------------------------------------------------
+
+
+"Replacement or Reproduction Cost" is the cost that would be incurred, on the basis of current prices, in acquiring an equally desirable substitute property, or the cost of reproducing a new replica of the property on the basis of current prices with the same or closely similar material.
+
+"Residential Land" is land principally devoted to habitation.
+
+SEC. 7. Imposition of the Basic Real Property Tax. There is hereby levied an annual ad valorem tax on the assessed value of real property such as land, buildings, machinery and other improvements affixed or attached to real property located in the City of Manila at the following rates:
+
+| Class of Property | Rates of Levy |
+| --- | --- |
+| Residential | 15% |
+| Commercial | 20% |
+| Industrial | 20% |
+| Special | 20% |
+
+Provided, that newly constructed buildings with ten (10) stories and above and those with five (5) to nine (9) stories shall be taxed at fifty percent (50%) and seventy five (75%) of the rates prescribed herein, respectively, for a period of three (3) years from the date of completion.
+
+SEC. 8. Additional Levy on Real Property Tax for the Special Education Fund (SEF). There is hereby levied an annual tax of one percent (1%) on the assessed value of real property which shall be in addition to the basic real property tax. The proceeds thereof shall exclusively accrue to the Special Education Fund.
+
+SEC. 9. Classes of Real Property for Assessment Purposes. For purposes of assessment, real property shall be classified as residential, commercial, industrial, or special by the City Assessor.
+
+SEC. 10. Special Classes of Real Property. All lands, buildings, and other improvements thereon actually, directly and exclusively used for hospitals, cultural, or scientific purposes, and those owned and used by local water districts, and government-owned or controlled corporations rendering essential public services in the supply and distribution of water and/or generation and transmission of electric power shall be classified as special.
+
+SEC. 11. Actual Use of Real Property as Basis for Assessment. Real property shall be classified, valued and assessed on the basis of its actual use regardless of where located, whoever owns it, and whoever uses.
+
+SEC. 12. Assessment Levels.
+
+A) The assessment levels to be applied to the fair market value of real property to determine its assessed value shall be as follows:
+
+| Class | Assessment Levels |
+| --- | --- |
+| On lands | 10% |
+| Commercial | 30% |
+| Industrial | 30% |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

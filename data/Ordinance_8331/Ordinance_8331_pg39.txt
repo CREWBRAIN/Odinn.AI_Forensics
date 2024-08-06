@@ -1,0 +1,53 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 39 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg39.txt
+Created: 2024-05-08T14:43:07.348432
+-----------------------------------------------------
+
+
+27) Storage and sale of flammable or explosive substance
+a) Storage of gasoline, diesel fuel, kerosene and similar products
+1. Less than 100 gals - $300.00
+2. Over 100 but less than 200 gals - $350.00
+3. Over 200 but less than 1,000 but less than 1,000 gals - $450.00
+4. Over 1,000 but less than 5,000 gals - $500.00
+5. Over 5,000 but less than 50,000 gals - $750.00
+6. Over 50,000 gals - $1,000.00
+
+b) Storage of Cinematographic films - $750.00
+c) Storage of celluloid - $450.00
+d) Storage of Calcium Carbide
+1. Less than 50 cases - $300.00
+2. 50 to 99 cases - $450.00
+3. 100 cases or more - $600.00
+
+e) Storage of tar, resins and similar materials
+1. Less than 1,000 kilos - $300.00
+2. 1,000 to 3,000 kilos - $450.00
+3. 3,001 to 5,000 kilos - 
+4. Over 5,000 kilos - 
+
+f) Storage of coal deposits
+1. Below 100 tons - $300.00
+2. Over 100 tons - $750.00
+
+g) Storage of Combustible, flammable substance or explosive substances not mentioned above, not exceeding 1,000 kilos or its equivalent - $500.00
+
+28) Peddlers except peddlers of tobacco and liquors
+
+29) a) Signboards, billboards, woods and plastic signs, Panaflex, ordinary neon lights, and other forms of ordinary establishment - $300.00
+100.00/sq.m./annum
+200.00/sq.m./annum
+c) Lazer lights, digital background, mechanical billboard, Halogen, balloon, political billboard, computer outdoor advertisement and other hi-tech advertisements that require electrical equipment - $300.00
+
+30) Gun clubs - $1,500.00
+
+31) Judo-Karate clubs - $1,000.00
+
+32) Lodging Houses/Pension Inns/Condotel - $5,000.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

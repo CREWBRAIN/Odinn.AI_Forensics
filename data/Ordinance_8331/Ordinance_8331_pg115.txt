@@ -1,0 +1,31 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 115 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg115.txt
+Created: 2024-05-08T14:43:06.903691
+-----------------------------------------------------
+
+
+SECTION 170. Printing of Community Tax Certificates and Distribution of Proceeds.-
+
+A) The Bureau of Internal Revenue shall cause the printing of community tax certificates and distribute the same to the city through the City Treasurer in accordance with prescribed regulations. The proceeds of the tax shall accrue to the general funds of the city and barangays except a portion thereof which shall accrue to the general fund of the National Government to cover the actual cost of printing and distribution of the forms and other related expenses. The City Treasurer concerned shall remit to the National Treasurer the tax within ten (10) days after the end of each quarter.
+
+B) The City Treasurer shall deputize the Barangay Treasurer to collect the community tax in their respective jurisdictions. Provided, However, That, said Barangay Treasurer shall be bonded in accordance with existing laws.
+
+C) The proceeds of the community tax actually and directly collected by the city or municipal treasurer shall accrue entirely to the general fund of the city or municipality concerned. However, proceeds of the community tax collected through the Barangay Treasurers shall be apportioned as follows:
+
+| Percentage | Allocation |
+| --- | --- |
+| 50% | General fund of the city |
+| 50% | Barangay where the tax is collected |
+
+SEC. 171. Presentation of Community Tax Certificate
+
+SEC. 172. Authority to Deputize Barangay Treasurers
+
+The City Treasurer is hereby authorized to deputize the Barangay Treasurers to collect the community tax in their respective jurisdiction. However, said deputation shall be limited to the community tax payable by individual taxpayers and shall be extended only to barangay treasurers who shall be properly bonded in accordance with existing laws.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

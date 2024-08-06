@@ -1,0 +1,46 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 119 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg119.txt
+Created: 2024-05-08T14:43:07.034929
+-----------------------------------------------------
+
+
+ARTICLE B
+CIVIL REMEDIES FOR COLLECTION OF REVENUES
+
+SEC. 184. Civil Remedies for Collection of Revenues
+
+Application of Section
+The provisions of this Section and the remedies provided herein may be availed of for the collection of any delinquent local tax, fee, charge, or other revenue.
+
+SEC. 185. Local Government's Lien
+
+Local taxes, fees, charges, and other revenues constitute a lien, superior to all liens, charges, or encumbrances in favor of any person, enforceable by appropriate administrative or judicial action, not only upon any property or rights therein which may be subject to the lien but also upon property used in business, occupation, practice of profession or calling, or exercise of privilege with respect to which the lien is imposed. The lien may only be extinguished upon full payment of the delinquent local taxes, fees, and charges including related surcharges and interest.
+
+SEC. 186. Civil Remedies For Collection of Delinquencies
+
+The civil remedies for the collection of local taxes, fees, or charges, and related surcharges and interest resulting from delinquency shall be:
+
+|  |  |
+| --- | --- |
+| 1) | By administrative action through distraint of goods, chattels or effects, and other personal property of whatever character, including stocks and other securities, debts, credits, bank accounts, and interest in and rights to personal property, and by levy upon real property and interest in or rights to real property, and |
+| 2) | By judicial action. |
+
+Either of these remedies or all may be pursued concurrently or simultaneously at the discretion of the City.
+
+SEC. 187. Distraint of Personal Property
+
+The remedy by distraint shall proceed as follows:
+
+1) Seizure - Upon failure of the person owing any local tax, fee, or charge to pay the same at the time required, the city treasurer or his deputy may, upon written notice, seize or confiscate any personal property belonging to that person or any personal property subject to the lien in sufficient quantity to satisfy the tax, fee, or charge in question, together with any increment thereto incident to delinquency and the expenses of seizure. In such case, the city treasurer or his deputy shall issue a duly authenticated certificate based upon the records of his office showing the fact of delinquency and the amounts of the tax, fee, or charge and penalty due. Such certificate shall serve as sufficient warrant for the distraint of personal property aforementioned, subject to the taxpayer's right to claim exemption under the provisions of existing laws.
+
+Distrained personal property shall be sold at public auction in the manner herein provided for.
+
+Accounting of distrained goods
+The officer executing the distraint shall make or cause to be made an account of the goods, chattels, or effects distrained, a copy of which signed by himself shall be left either with the owner or person from whom possession of the goods, chattels, or effects are taken, or at the dwelling or place of business of that person and with someone of suitable age and discretion, to which list shall be added a statement of the sum demanded and a note of the time and place of sale.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

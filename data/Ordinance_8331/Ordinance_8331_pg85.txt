@@ -1,0 +1,50 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 85 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg85.txt
+Created: 2024-05-08T14:43:07.712509
+-----------------------------------------------------
+
+
+ARTICLE B
+
+CHARGES FOR PARKING, TOWING AND TRAFFIC VIOLATIONS
+
+SEC. 146. Parking, Towing and Traffic Violation Charges. Enumerated below are the different parking, towing and traffic violation charges:
+
+Night Parking (sticker) for using street, sidewalk or public place or in front of their houses and places of business as a private garage or parking space:
+
+a) For cars or jeepneys, per quarter: 247.50
+b) For buses and trucks, per quarter: 330.00
+c) For containerized vans/trailers, per day or fraction thereof: 20.00/day
+
+A. Overnight Parking Permit (Ordinance 7773 Section 32) - Night Parking (sticker) for using street, sidewalk or public place or in front of their houses and places of business as a private garage or parking space.
+
+Cars, Jeepneys
+Buses and Trucks
+For containerized vans/trailers, per day or fraction thereof
+Overnight Application Forms
+Each Barangay shall assist the city government in ensuring compliance by car-owning residents with the night parking regulation and shall correspondingly receive a thirty percent (30%) share of the fees collected from its area of jurisdiction.
+
+B. Parking Fees (Ordinance 7988)
+
+a. Light Vehicles (Car, Jeep, Motorcycle/Pedicab)
+b. Medium Vehicles (Van, Delivery Truck except ten-wheeler truck)
+c. Heavy Vehicles (Bus, 10-wheeler trucks, heavy equipment)
+
+C. Towage of Stalled Vehicle (Ordinance 8092)
+
+1. Light Vehicles (Car, Jeep, Motorcycle/Pedicab)
+	* 300/quarter
+	* 450/quarter
+	* 20.00/day
+	* P20.00 for the first three hours and 15.00 every hour thereafter
+2. Medium Vehicles (Van, Delivery Truck except ten-wheeler truck)
+	* P30.00 for the first three hours and 20.00 every hour thereafter
+3. Heavy Vehicles (Bus, 10-wheeler trucks, heavy equipment)
+	* P60.00 for the first three hours and 40.00 every hour thereafter
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

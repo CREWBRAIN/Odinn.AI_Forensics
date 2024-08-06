@@ -1,0 +1,67 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 69 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg69.txt
+Created: 2024-05-08T14:43:07.589000
+-----------------------------------------------------
+
+
+O.) Laboratory Test
+
+* BUN: Php 90.00
+* CBC: Php 120.00
+* SGPT: Php 130.00
+* Creatine: Php 130.00
+* Heartworm Test (MCF): Php 100.00
+* Vulvar Smear: Php 80.00
+* Urinalysis: Php 100.00
+* Skin Scraping: Php 50.00
+* Direct Fecal Smear: Php 50.00
+* X-ray: Php 200.00
+* Fungal Examination: Php 50.00
+
+P.) Laboratory Examination
+
+* Locally manufactured meat food products
+* Other confiscated meat products/Entrails
+* Lease/Rent
+* Office space and other open spaces, Within VIB compound for parking and other related purposes
+* Use of utilities, flat rate of
+
+Q.) Registration Fee
+
+1. Local meat establishment
+   a. Meat cutting plant
+   b. Meat shop
+   c. Meat processing plant
+   d. Poultry dressing plant
+   e. Lechon outlet
+2. Delivery Vehicles
+   a. Meat delivery van
+   b. Livestock carrier
+
+R.) Fees for issuance of License to Meat Handler
+
+* Meat Dealer: Php 2,500.00 per year
+* Butcher/Meat handler/cutter: Php 1,000.00 per year
+* Meat shop operator: Php 1,000.00 per year
+* Meat processor: Php 1,000.00 per year
+* Meat vendor: Php 250.00 per year
+* ART: Php 500.00 per year
+
+SPECIAL PERMIT FEE
+
+SEC. 132. Special Permit Fee: For purposes of this Ordinance, the City shall collect the following fees for holding events written-below:
+
+A.) Display of fireworks, setting- up booths, motorcade, cinema billboards and any form of advertisements, per day: Php 500.00
+B.) Circus of menagerie parade, carnivals, arcade or other parades using banners, floats or musical instruments: Php 1,000.00
+C.) Public display/exhibits of art collections, cockpits, sports, review/license examinations, special events, fun run, conduct of group activities per day: Php 2,000.00
+D.) Street dancing, requiring the closure of major street and rerouting, per day: Php 2,000.00
+E.) For stage shows or floor fashion shows payable by the operator: Php 2,000.00
+F.) Film shooting on location, per day: Php 5,000.00
+G.) Benefit Ball/Dance, per day: Php 500.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

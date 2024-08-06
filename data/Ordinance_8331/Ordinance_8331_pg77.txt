@@ -1,0 +1,102 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 77 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg77.txt
+Created: 2024-05-08T14:43:07.661513
+-----------------------------------------------------
+
+
+G. Clinical Microscopy
+
+1. Routine Urinalysis
+2. Routine Stool Examination
+3. Pregnancy Test
+$50.00
+$40.00
+$70.00
+$100.00
+
+4. Seminal Analysis (Sperm)
+
+H. Sanitary Bacteriology
+
+a. Bacteriologic Analysis (Total & Fecal Coliform)
+b. Heterotropic Plate Count (HPC)
+c. Bacteriologic Analysis (Total & Fecal Coliform) with Heterotropic Plate Count (HPC)
+$250.00
+$250.00
+$500.00
+
+L. DRUG TESTING
+$250.00
+
+ARTICLE G
+AFFILIATION FEES
+
+SEC. 143. AFFILIATION FEES. Affiliation fees are service fees for every person, company, corporation, academic program who wants to be affiliated with the City Government internship program shall be charged as follows
+
+A. Clinical Instructor
+$200.00
+
+B. Dental Hygienist
+$250.00
+
+C. Dental Students
+$250.00
+
+D. Medical and Nursing Students
+$200.00
+
+E. Medical Secretary
+$100.00
+
+F. Medical Technology - Interns at PHL for six (6) months
+$2,500.00
+
+G. Community Work/Training
+
+H. Midwifery Students - LIC
+$200.00
+
+I. Nutrition (for entire exposure)
+$100.00
+
+J. Practicum (Masteral Course)
+$250.00
+
+K. Post Graduate Interns
+$100.00
+
+L. Other Internship Program
+$200.00
+
+M. Program Orientation
+$200.00
+
+N. Research
+$40.00
+
+1. Documents research (e.g. statistics, report)
+$50.00
+
+2. Actual conduct of research in offices/community
+$300.00
+
+3. Securing health information (interviews - Focal Group Discussion)
+$200.00
+
+*City Government Employees Clinic
+
+1. Physical Examinations (Public/Private applicant)
+$100.00
+
+2. Psychological Examination
+$100.00
+
+3. Gender Correction
+$200.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

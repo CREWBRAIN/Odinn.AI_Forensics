@@ -1,0 +1,99 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 93 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg93.txt
+Created: 2024-05-08T14:43:07.760482
+-----------------------------------------------------
+
+
+HBALC
+OGCT
+0
+FBS/RBS
+240.00
+25.00
+40.00
+4 Bacteriology
+a. Culture and Sensitivity
+b. Acid Fast Stain
+c. Gram Stain
+d. KOH (Potassium Hydroxide Smear)
+5 Histopathology
+a. Surgical tissue
+1) Small (<5 cm)
+2) Medium (5-7 cm)
+3) Large (7-15 cm)
+4) Extra large (>16 cm)
+b. Biopsy Specimen
+c. Papanicolau stain
+d. Cell Block
+e.
+f. Stone Analysis
+8 CSF Analysis
+h. Fluid Analysis
+6 Enzymes
+a. SGPT (AST)
+b. GGTP
+c. Amylase
+240.00
+40.00
+50.00
+50.00
+490.00
+590.00
+690.00
+1,390.00
+40.00
+60.00
+490.00
+100.00
+190.00
+290.00
+290.00
+40.00
+140.00
+90.00
+d. Lipase
+120.00
+e.
+Total CPK
+320.00
+f. CPK-MB
+340.00
+g. CPK-MM
+370.00
+h. Troponin I (Qualitative)
+700.00
+i. Troponin I (Quantitative)
+1,700.00
+j. Troponin T
+2,300.00
+k. LDH
+160.00
+7. Electrolytes
+a. Sodium (Na)
+b. Potassium (K)
+c. Chloride (Cl)
+d. Total Calcium (Ca)
+e. Ionized Calcium (Ica)
+f. Lithium
+g. Magnesium (Mg)
+h. Inorganic phosphate
+i. Total Iron
+j.
+Iron and TIBC
+310.00
+340.00
+490.00
+1,240.00
+490.00
+130.00
+120.00
+90.00
+540.00
+890.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

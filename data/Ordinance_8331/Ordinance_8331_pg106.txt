@@ -1,0 +1,44 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 106 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg106.txt
+Created: 2024-05-08T14:43:06.816922
+-----------------------------------------------------
+
+
+f.1) Groceries Section refers to the area where all kinds of cakes, biscuits, pastries, crackers, butter, cheese, confections, candies, canned or bottled foods, beverages, softdrinks, cigarettes, flour, oatmeal, ham, bacon, sugar, nuts, sauce, onions, garlic, potatoes, all kinds of cereals such as rice, corn, mongo and the like, eggs, sausages, starch, smoked fish, dried fish, roll, feeds, soap and other household and food products including firewood and charcoal shall be sold.
+
+f.2) Rice, Corn and other Cereal Section refers to the area where purely rice, corn, and other cereals shall be sold.
+
+g)
+
+h)
+
+i)
+
+j)
+
+Poultry Product Section refers to the area where only live chicken, ducks, turkeys, other fowls and birds, suckling or piglets, and the like that shall be sold.
+
+Flower Shop Section refers to the area where only all kinds of garden accessories and implements or tools shall be sold.
+
+Cold Storage Service Section refers to the area where only refrigeration services shall be made available and sale of ice in whatever form shall be conducted.
+
+Miscellaneous Section refers to the area where any other business not classified herein shall be allowed.
+
+The numbering, designation, or other forms of identifying the market section shall be the responsibility of the City Treasurer.
+
+SEC. 155. Imposition of Fees - There shall be collected the following market fees:
+
+A.) On stalls, per square meter per day or fraction thereof:
+
+| Class | Wet Section | Fruits Section | Dry Section | Eateries and Food Section | Poultry Section | Flower Shops | Special services |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| A | 15.00 | 14.00 | 12.00 | 14.00 | 14.00 | 14.00 | 50.00 |
+| B | 14.00 | 13.00 | 11.00 | 13.00 | 13.00 | 13.00 | 50.00 |
+| C | 12.00 | 11.00 | 10.00 | 11.00 | 11.00 | 11.00 | 50.00 |
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

@@ -1,0 +1,8 @@
+output/
+reference/
+.venv/
+model_cache/
+_output
+_pycache_
+_reference_old
+docs/

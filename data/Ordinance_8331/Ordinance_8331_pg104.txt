@@ -1,0 +1,50 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 104 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg104.txt
+Created: 2024-05-08T14:43:06.786072
+-----------------------------------------------------
+
+
+PUBLIC RECREATION CHARGES
+
+SEC. 151. Public Recreation Charges. There shall be charges imposed on the use of public recreational facilities as well as entrance fee for the Manila Zoological Park.
+
+A. Manila Zoo
+Admission Fees
+          | Adult          | Children          | Employees
+----------|---------------|------------------|-----------
+          |               |                 | Free of Charge
+B. Sports Complex
+Usage Fees
+          | Gymnasium      | Manila          | Non-Manila
+----------|---------------|---------------|-----------
+          |               |               | 
+          |  Php 50.00    |  Php 30.00     |  Php 100.00 |  Php 60.00
+          |  With lights  |               |               |
+          |  Php 800.00/hour|               |               |
+          |  Without lights|               |               |
+          |  Php 500.00/hour|               |               |
+C. Covered Court
+          |               |               | 
+          |  Php 600.00/hour|               | 
+          |  Php 400.00/hour|               | 
+
+D. Swimming Pool and
+          |               |               | 
+          |  Php 80.00/head|               | 
+
+E. Other Sports
+          |               |               | 
+          |  Facilities   |               | 
+
+C. Parking Fees in Manila Zoo
+          | Light Vehicle | Medium Vehicle | Heavy Vehicles
+----------|---------------|---------------|-----------
+          |  Php 20.00 (first 3 hours) |  Php 30.00 (first 3 hours) |  Php 60.00 (first 3 hours)
+          |  Php 15.00 (every hour thereafter) |  Php 15.00 (every hour thereafter) |  Php 15.00 (every hour thereafter)
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

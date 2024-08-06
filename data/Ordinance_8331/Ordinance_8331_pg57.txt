@@ -1,0 +1,81 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 57 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg57.txt
+Created: 2024-05-08T14:43:07.482808
+-----------------------------------------------------
+
+
+Other machinery/equipment for commercial/industrial
+social and institutional purposes per unit
+
+1. Up to 10HP
+2. Above 10HP up to 100HP
+3. Every HP in excess of 100HP
+
+m. Pressure vessels per vu m or fraction thereof
+n. Pneumatic tubes, conveyors, monorails for matenals handling per lineal meter of fraction thereof
+o. Testing/Calibration of pressure gauge per unit
+p. Gas meters, each gas meter tested, proved and sealed
+
+1. Up to 10 lights
+2. Above 10 lights up to 50 lights
+3. Above 50 lights up to 100 lights
+4. Above 100 lights
+
+Every inspection of mechanical rides uses in amusement centers or fairs
+such as Ferris wheel, merry go round, roller coasters and the like per unit
+
+120.00
+200.00
+3.00
+40.00
+400
+2500
+1500
+2000
+3000
+50.00
+40.00
+4000
+
+Q. Certification Fees - The amount of one hundred (P100.00) pesos shall be collected from the
+applicants requesting the issuance of any of the following.
+
+a. Certified true copy of building permit
+b.
+c. Issuance of Certificate of Damage
+d. Certified true copy of certificate of damage
+e. Certified true copy of electrical certificate
+f. Certified true copy of gas meter installation
+g. Certified true copy of certificate of operation
+
+R. Payment of Fees - All building permits and related fees shall be paid to the City Treasurer
+upon presentation of the order of payment issued by the City Building Official
+
+S. Exemptions from Paying Building Permit Fees - No building permit and related fees shall
+be collected for the issuance of building permit on government projects undertaken by the City
+Administration
+
+T. Penal Provisions. It shall be unlawful for any person, firm, or corporation to erect,
+construct, enlarge, alter, repair, move, improve, remove, convert, demolish, equip, use or be
+done contrary to or in violation of any provision of this Ordinance. Any person, firm, or
+corporation who willfully violates any provision of this Ordinance shall upon conviction be
+punished by fine of not more than Php5,000 and imprisonment of not less than one month or
+more than six months or both at the discretion of the court.
+
+U.
+Applicability of the National Building Code - All technical provisions and penalties
+provided under Presidential Decree 1096, otherwise known as the National Building Code of
+the Philippines shall still apply except that the enforcement shall now be lodged with the City
+of Manila pursuant to the pertinent provisions of RA 7160 and of this Code.
+
+V. Permit Fees on Excavation and Drilling
+
+a. A permit to excavate or drill shall be issued by the City Engineer shall be required for any
+excavation, drilling or digging to be done in public places.
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------

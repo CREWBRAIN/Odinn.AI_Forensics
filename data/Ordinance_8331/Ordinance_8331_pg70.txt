@@ -1,0 +1,100 @@
+-----------------------------------------------------
+LGU: City of Manila
+Ordinance Number: 8331
+Page Number: 70 of 124
+Source: - D:\Coding\Releases\Document_Retriever_API\reference2\reference\Ordinance_8331\Ordinance_8331_pg70.txt
+Created: 2024-05-08T14:43:07.603442
+-----------------------------------------------------
+
+
+ARTICLE K
+MANILA TRI-WHEEL REGULATORY FEE
+SEC. 133. Manila Tri-Wheel Vehicle Ordinance
+No 8291 has imposed the following fees:
+
+A. Motorcycle
+    1. Registration - Annual Fees (Sec 14)
+        • Application Fee
+        • Mayor's Permit
+        • Registration Fee
+        • Terminal Fee
+        • License to Operate
+        • Health Certificate Fee
+        • Police Clearance
+        • Occupational Tax
+        • Sticker
+    Fees:
+        • 1500
+        • 200.00
+        • 10 00
+        • 100 00
+        • 50 00
+        • 50 00
+        • 20.00
+        • 120.00
+    2. Franchise & Special Fees
+        • Franchise Fee
+        • Dropping Fee
+        • Replacement of Lost Franchise or Permit
+    Fees:
+        • 1,500 00
+        • 250 00
+        • 300 00
+    3. Other Fees
+        • MTRO Plate Number
+        • Impounding Fee
+    Fees:
+        • 300.00
+        • 500.00
+
+B. Pedicab
+    1. Registration- Annual Fees
+        • Application Fee
+        • Mayor's Permit
+        • Registration Fee
+        • Terminal Fee
+        • License to Operate
+        • Health Certificate Fee
+        • Police Clearance
+        • Occupational Tax
+        • Sticker
+    Fees:
+        • 15.00
+        • 150.00
+        • 10.00
+        • 50.00
+        • 10.00
+        • 50.00
+        • 20.00
+        • 120.00
+    2. Special Fee
+        • Replacement of Lost Permit
+    Fee:
+        • 15.00
+    3. Other Fees
+        • MTRO Plate Number
+        • Impounding Fee
+    Fees:
+        • 300.00
+        • 500.00
+    4. Initial Payment
+    Fees:
+        • Annual Fees
+        • MTRO Plate Number
+    Fees:
+        • 525.00
+        • 300,00
+
+C. Government Utility and Tri-wheel Service Vehicles
+    Fees:
+        • MTRO Plate Number
+        • Sticker
+        • Impounding Fee
+    Fees:
+        • 300.00
+        • 100.00
+        • 500.00
+
+-----------------------------------------------------
+Disclaimer: The ordinance text was extracted by CREWBRAIN AI Forensics, a tool that uses OCR, NLP, and ML for accurate legal document analysis. While efforts are made to ensure accuracy, refer to the original document for official use. City of Manila and CREWBRAIN are not liable for discrepancies. Visit https://citycouncilofmanila.com.ph for more information.
+-----------------------------------------------------
